@@ -76,8 +76,8 @@ I have been working around Virtual Machine Introspection technologies for the pa
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#94](https://github.com/IntelLabs/kAFL/issues/94) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🗣 Commented on [#94](https://github.com/IntelLabs/kAFL/issues/94) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 💪 Opened PR [#94](https://github.com/IntelLabs/kAFL/pull/94) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🗣 Commented on [#79](https://github.com/IntelLabs/kAFL/issues/79) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🎉 Merged PR [#28](https://github.com/intel/ccc-linux-guest-hardening/pull/28) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+2. 🎉 Merged PR [#90](https://github.com/IntelLabs/kAFL/pull/90) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🗣 Commented on [#94](https://github.com/IntelLabs/kAFL/issues/94) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+4. 🗣 Commented on [#94](https://github.com/IntelLabs/kAFL/issues/94) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 💪 Opened PR [#94](https://github.com/IntelLabs/kAFL/pull/94) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
