@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#104](https://github.com/IntelLabs/kAFL/pull/104) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🗣 Commented on [#82](https://github.com/IntelLabs/kAFL/issues/82) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🎉 Merged PR [#94](https://github.com/IntelLabs/kAFL/pull/94) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🗣 Commented on [#103](https://github.com/netromdk/vermin/issues/103) in [netromdk/vermin](https://github.com/netromdk/vermin)
-5. 🎉 Merged PR [#103](https://github.com/IntelLabs/kAFL/pull/103) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 💪 Opened PR [#105](https://github.com/IntelLabs/kAFL/pull/105) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. 💪 Opened PR [#104](https://github.com/IntelLabs/kAFL/pull/104) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🗣 Commented on [#82](https://github.com/IntelLabs/kAFL/issues/82) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+4. 🎉 Merged PR [#94](https://github.com/IntelLabs/kAFL/pull/94) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🗣 Commented on [#103](https://github.com/netromdk/vermin/issues/103) in [netromdk/vermin](https://github.com/netromdk/vermin)
 <!--END_SECTION:activity-->
