@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/KVM-VMI/kvm/issues/54) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
+1. 💪 Opened PR [#107](https://github.com/IntelLabs/kAFL/pull/107) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 2. 🗣 Commented on [#54](https://github.com/KVM-VMI/kvm/issues/54) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-3. 🗣 Commented on [#105](https://github.com/IntelLabs/kAFL/issues/105) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 💪 Opened PR [#105](https://github.com/IntelLabs/kAFL/pull/105) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 💪 Opened PR [#104](https://github.com/IntelLabs/kAFL/pull/104) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🗣 Commented on [#54](https://github.com/KVM-VMI/kvm/issues/54) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
+4. 🗣 Commented on [#105](https://github.com/IntelLabs/kAFL/issues/105) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 💪 Opened PR [#105](https://github.com/IntelLabs/kAFL/pull/105) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
