@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/KVM-VMI/kvm/issues/54) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-2. 💪 Opened PR [#107](https://github.com/IntelLabs/kAFL/pull/107) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🗣 Commented on [#54](https://github.com/KVM-VMI/kvm/issues/54) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-4. 🗣 Commented on [#54](https://github.com/KVM-VMI/kvm/issues/54) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-5. 🗣 Commented on [#105](https://github.com/IntelLabs/kAFL/issues/105) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. ❗️ Opened issue [#805](https://github.com/lief-project/LIEF/issues/805) in [lief-project/LIEF](https://github.com/lief-project/LIEF)
+2. 🗣 Commented on [#114](https://github.com/Wenzel/checksec.py/issues/114) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+3. 🎉 Merged PR [#115](https://github.com/Wenzel/checksec.py/pull/115) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+4. 🗣 Commented on [#115](https://github.com/Wenzel/checksec.py/issues/115) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+5. 🎉 Merged PR [#116](https://github.com/Wenzel/checksec.py/pull/116) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
 <!--END_SECTION:activity-->
