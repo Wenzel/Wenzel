@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#805](https://github.com/lief-project/LIEF/issues/805) in [lief-project/LIEF](https://github.com/lief-project/LIEF)
-2. 🗣 Commented on [#114](https://github.com/Wenzel/checksec.py/issues/114) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-3. 🎉 Merged PR [#115](https://github.com/Wenzel/checksec.py/pull/115) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-4. 🗣 Commented on [#115](https://github.com/Wenzel/checksec.py/issues/115) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-5. 🎉 Merged PR [#116](https://github.com/Wenzel/checksec.py/pull/116) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+1. 🗣 Commented on [#54](https://github.com/KVM-VMI/kvm/issues/54) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
+2. 💪 Opened PR [#16](https://github.com/IntelLabs/kafl.fuzzer/pull/16) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+3. 💪 Opened PR [#15](https://github.com/IntelLabs/kafl.fuzzer/pull/15) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+4. ❗️ Opened issue [#14](https://github.com/IntelLabs/kafl.fuzzer/issues/14) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+5. ❗️ Opened issue [#13](https://github.com/IntelLabs/kafl.fuzzer/issues/13) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
 <!--END_SECTION:activity-->
