@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/IntelLabs/kafl.fuzzer/pull/17) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
-2. 🗣 Commented on [#54](https://github.com/KVM-VMI/kvm/issues/54) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-3. 💪 Opened PR [#16](https://github.com/IntelLabs/kafl.fuzzer/pull/16) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
-4. 💪 Opened PR [#15](https://github.com/IntelLabs/kafl.fuzzer/pull/15) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
-5. ❗️ Opened issue [#14](https://github.com/IntelLabs/kafl.fuzzer/issues/14) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+1. 🗣 Commented on [#16](https://github.com/IntelLabs/kafl.fuzzer/issues/16) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+2. 💪 Opened PR [#17](https://github.com/IntelLabs/kafl.fuzzer/pull/17) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+3. 🗣 Commented on [#54](https://github.com/KVM-VMI/kvm/issues/54) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
+4. 💪 Opened PR [#16](https://github.com/IntelLabs/kafl.fuzzer/pull/16) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+5. 💪 Opened PR [#15](https://github.com/IntelLabs/kafl.fuzzer/pull/15) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
 <!--END_SECTION:activity-->
