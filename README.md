@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#137](https://github.com/KVM-VMI/kvm-vmi/pull/137) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-2. ❗️ Opened issue [#823](https://github.com/dynaconf/dynaconf/issues/823) in [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf)
-3. 🎉 Merged PR [#43](https://github.com/intel/ccc-linux-guest-hardening/pull/43) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
-4. 🗣 Commented on [#58](https://github.com/intel/ccc-linux-guest-hardening/issues/58) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+1. 🎉 Merged PR [#137](https://github.com/KVM-VMI/kvm-vmi/pull/137) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+2. 💪 Opened PR [#137](https://github.com/KVM-VMI/kvm-vmi/pull/137) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+3. ❗️ Opened issue [#823](https://github.com/dynaconf/dynaconf/issues/823) in [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf)
+4. 🎉 Merged PR [#43](https://github.com/intel/ccc-linux-guest-hardening/pull/43) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
 5. 🗣 Commented on [#58](https://github.com/intel/ccc-linux-guest-hardening/issues/58) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
 <!--END_SECTION:activity-->
