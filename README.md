@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#75](https://github.com/intel/ccc-linux-guest-hardening/issues/75) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
-2. 💪 Opened PR [#1](https://github.com/Wenzel/test-docker-action/pull/1) in [Wenzel/test-docker-action](https://github.com/Wenzel/test-docker-action)
-3. 🗣 Commented on [#44](https://github.com/IntelLabs/kafl.fuzzer/issues/44) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
-4. ❗️ Opened issue [#129](https://github.com/netromdk/vermin/issues/129) in [netromdk/vermin](https://github.com/netromdk/vermin)
-5. 🎉 Merged PR [#43](https://github.com/IntelLabs/kafl.fuzzer/pull/43) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+1. ❗️ Closed issue [#75](https://github.com/intel/ccc-linux-guest-hardening/issues/75) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+2. 🎉 Merged PR [#76](https://github.com/intel/ccc-linux-guest-hardening/pull/76) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+3. 💪 Opened PR [#76](https://github.com/intel/ccc-linux-guest-hardening/pull/76) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+4. ❗️ Opened issue [#75](https://github.com/intel/ccc-linux-guest-hardening/issues/75) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+5. 💪 Opened PR [#1](https://github.com/Wenzel/test-docker-action/pull/1) in [Wenzel/test-docker-action](https://github.com/Wenzel/test-docker-action)
 <!--END_SECTION:activity-->
