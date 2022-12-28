@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/Wenzel/checksec.py/issues/118) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-2. 🗣 Commented on [#525](https://github.com/obsidian-tasks-group/obsidian-tasks/issues/525) in [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
-3. ❌ Closed PR [#117](https://github.com/Wenzel/checksec.py/pull/117) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-4. 🗣 Commented on [#117](https://github.com/Wenzel/checksec.py/issues/117) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-5. ❗️ Opened issue [#848](https://github.com/lief-project/LIEF/issues/848) in [lief-project/LIEF](https://github.com/lief-project/LIEF)
+1. 🗣 Commented on [#848](https://github.com/lief-project/LIEF/issues/848) in [lief-project/LIEF](https://github.com/lief-project/LIEF)
+2. 🗣 Commented on [#118](https://github.com/Wenzel/checksec.py/issues/118) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+3. 🗣 Commented on [#525](https://github.com/obsidian-tasks-group/obsidian-tasks/issues/525) in [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
+4. ❌ Closed PR [#117](https://github.com/Wenzel/checksec.py/pull/117) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+5. 🗣 Commented on [#117](https://github.com/Wenzel/checksec.py/issues/117) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
 <!--END_SECTION:activity-->
