@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#848](https://github.com/lief-project/LIEF/issues/848) in [lief-project/LIEF](https://github.com/lief-project/LIEF)
-2. 🗣 Commented on [#118](https://github.com/Wenzel/checksec.py/issues/118) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-3. 🗣 Commented on [#525](https://github.com/obsidian-tasks-group/obsidian-tasks/issues/525) in [obsidian-tasks-group/obsidian-tasks](https://github.com/obsidian-tasks-group/obsidian-tasks)
-4. ❌ Closed PR [#117](https://github.com/Wenzel/checksec.py/pull/117) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-5. 🗣 Commented on [#117](https://github.com/Wenzel/checksec.py/issues/117) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+1. 🗣 Commented on [#143](https://github.com/KVM-VMI/kvm-vmi/issues/143) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+2. 🗣 Commented on [#143](https://github.com/KVM-VMI/kvm-vmi/issues/143) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+3. 💪 Opened PR [#142](https://github.com/KVM-VMI/kvm-vmi/pull/142) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+4. 🎉 Merged PR [#141](https://github.com/KVM-VMI/kvm-vmi/pull/141) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+5. 🗣 Commented on [#140](https://github.com/KVM-VMI/kvm-vmi/issues/140) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
 <!--END_SECTION:activity-->
