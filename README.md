@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/IntelLabs/kafl.qemu/issues/5) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
-2. 🎉 Merged PR [#6](https://github.com/IntelLabs/kafl.qemu/pull/6) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
-3. 💪 Opened PR [#6](https://github.com/IntelLabs/kafl.qemu/pull/6) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
-4. 🗣 Commented on [#5](https://github.com/IntelLabs/kafl.qemu/issues/5) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
-5. ❗️ Opened issue [#5](https://github.com/IntelLabs/kafl.qemu/issues/5) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
+1. 💪 Opened PR [#154](https://github.com/IntelLabs/kAFL/pull/154) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. ❗️ Opened issue [#6](https://github.com/IntelLabs/kafl.linux/issues/6) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
+3. ❗️ Closed issue [#5](https://github.com/IntelLabs/kafl.qemu/issues/5) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
+4. 🎉 Merged PR [#6](https://github.com/IntelLabs/kafl.qemu/pull/6) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
+5. 💪 Opened PR [#6](https://github.com/IntelLabs/kafl.qemu/pull/6) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
 <!--END_SECTION:activity-->
