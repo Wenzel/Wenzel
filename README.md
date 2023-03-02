@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/KVM-VMI/kvm/issues/56) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-2. 🗣 Commented on [#90](https://github.com/intel/ccc-linux-guest-hardening/issues/90) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
-3. ❗️ Opened issue [#171](https://github.com/IntelLabs/kAFL/issues/171) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🗣 Commented on [#6](https://github.com/IntelLabs/kafl.linux/issues/6) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
-5. 🎉 Merged PR [#170](https://github.com/IntelLabs/kAFL/pull/170) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🗣 Commented on [#6](https://github.com/IntelLabs/kafl.linux/issues/6) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
+2. 🗣 Commented on [#56](https://github.com/KVM-VMI/kvm/issues/56) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
+3. 🗣 Commented on [#90](https://github.com/intel/ccc-linux-guest-hardening/issues/90) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+4. ❗️ Opened issue [#171](https://github.com/IntelLabs/kAFL/issues/171) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🗣 Commented on [#6](https://github.com/IntelLabs/kafl.linux/issues/6) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
 <!--END_SECTION:activity-->
