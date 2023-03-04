@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/IntelLabs/kAFL/issues/173) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 💪 Opened PR [#174](https://github.com/IntelLabs/kAFL/pull/174) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🗣 Commented on [#173](https://github.com/IntelLabs/kAFL/issues/173) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🗣 Commented on [#6](https://github.com/IntelLabs/kafl.linux/issues/6) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
-5. 🗣 Commented on [#56](https://github.com/KVM-VMI/kvm/issues/56) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
+1. 🗣 Commented on [#876](https://github.com/dynaconf/dynaconf/issues/876) in [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf)
+2. 🗣 Commented on [#175](https://github.com/IntelLabs/kAFL/issues/175) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🗣 Commented on [#876](https://github.com/dynaconf/dynaconf/issues/876) in [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf)
+4. ❗️ Opened issue [#175](https://github.com/IntelLabs/kAFL/issues/175) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🗣 Commented on [#173](https://github.com/IntelLabs/kAFL/issues/173) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
