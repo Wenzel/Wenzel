@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#149](https://github.com/KVM-VMI/kvm-vmi/issues/149) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-2. 🎉 Merged PR [#148](https://github.com/KVM-VMI/kvm-vmi/pull/148) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-3. 🎉 Merged PR [#139](https://github.com/KVM-VMI/kvm-vmi/pull/139) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-4. 🗣 Commented on [#57](https://github.com/KVM-VMI/kvm/issues/57) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-5. ❗️ Opened issue [#149](https://github.com/KVM-VMI/kvm-vmi/issues/149) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+1. 🗣 Commented on [#57](https://github.com/KVM-VMI/kvm/issues/57) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
+2. ❗️ Closed issue [#57](https://github.com/KVM-VMI/kvm/issues/57) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
+3. ❗️ Closed issue [#149](https://github.com/KVM-VMI/kvm-vmi/issues/149) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+4. 🎉 Merged PR [#148](https://github.com/KVM-VMI/kvm-vmi/pull/148) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+5. 🎉 Merged PR [#139](https://github.com/KVM-VMI/kvm-vmi/pull/139) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
 <!--END_SECTION:activity-->
