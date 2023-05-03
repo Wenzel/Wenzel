@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/IntelLabs/kAFL/issues/190) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🎉 Merged PR [#9](https://github.com/IntelLabs/kafl.linux/pull/9) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
-3. 💪 Opened PR [#9](https://github.com/IntelLabs/kafl.linux/pull/9) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
-4. 🗣 Commented on [#186](https://github.com/IntelLabs/kAFL/issues/186) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🎉 Merged PR [#186](https://github.com/IntelLabs/kAFL/pull/186) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. ❗️ Opened issue [#2](https://github.com/IntelLabs/kafl.actions/issues/2) in [IntelLabs/kafl.actions](https://github.com/IntelLabs/kafl.actions)
+2. 🗣 Commented on [#20](https://github.com/nyx-fuzz/libnyx/issues/20) in [nyx-fuzz/libnyx](https://github.com/nyx-fuzz/libnyx)
+3. 🗣 Commented on [#20](https://github.com/nyx-fuzz/libnyx/issues/20) in [nyx-fuzz/libnyx](https://github.com/nyx-fuzz/libnyx)
+4. 🗣 Commented on [#20](https://github.com/nyx-fuzz/libnyx/issues/20) in [nyx-fuzz/libnyx](https://github.com/nyx-fuzz/libnyx)
+5. 🗣 Commented on [#20](https://github.com/nyx-fuzz/libnyx/issues/20) in [nyx-fuzz/libnyx](https://github.com/nyx-fuzz/libnyx)
 <!--END_SECTION:activity-->
