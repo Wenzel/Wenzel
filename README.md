@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1](https://github.com/Wenzel/edk2/pull/1) in [Wenzel/edk2](https://github.com/Wenzel/edk2)
-2. ❌ Closed PR [#1](https://github.com/Wenzel/edk2/pull/1) in [Wenzel/edk2](https://github.com/Wenzel/edk2)
-3. ❌ Reopened PR [#1](https://github.com/Wenzel/edk2/pull/1) in [Wenzel/edk2](https://github.com/Wenzel/edk2)
-4. ❌ Closed PR [#1](https://github.com/Wenzel/edk2/pull/1) in [Wenzel/edk2](https://github.com/Wenzel/edk2)
-5. 💪 Opened PR [#3](https://github.com/IntelLabs/kafl.actions/pull/3) in [IntelLabs/kafl.actions](https://github.com/IntelLabs/kafl.actions)
+1. 🗣 Commented on [#191](https://github.com/IntelLabs/kAFL/issues/191) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. 🗣 Commented on [#188](https://github.com/IntelLabs/kAFL/issues/188) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🗣 Commented on [#3](https://github.com/IntelLabs/kafl.actions/issues/3) in [IntelLabs/kafl.actions](https://github.com/IntelLabs/kafl.actions)
+4. ❌ Reopened PR [#1](https://github.com/Wenzel/edk2/pull/1) in [Wenzel/edk2](https://github.com/Wenzel/edk2)
+5. ❌ Closed PR [#1](https://github.com/Wenzel/edk2/pull/1) in [Wenzel/edk2](https://github.com/Wenzel/edk2)
 <!--END_SECTION:activity-->
