@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#64](https://github.com/IntelLabs/kafl.fuzzer/issues/64) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
-2. ❗️ Opened issue [#192](https://github.com/IntelLabs/kAFL/issues/192) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🗣 Commented on [#191](https://github.com/IntelLabs/kAFL/issues/191) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🗣 Commented on [#188](https://github.com/IntelLabs/kAFL/issues/188) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🗣 Commented on [#3](https://github.com/IntelLabs/kafl.actions/issues/3) in [IntelLabs/kafl.actions](https://github.com/IntelLabs/kafl.actions)
+1. 🗣 Commented on [#118](https://github.com/Wenzel/checksec.py/issues/118) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+2. 🗣 Commented on [#848](https://github.com/lief-project/LIEF/issues/848) in [lief-project/LIEF](https://github.com/lief-project/LIEF)
+3. 🗣 Commented on [#118](https://github.com/Wenzel/checksec.py/issues/118) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+4. ❗️ Opened issue [#64](https://github.com/IntelLabs/kafl.fuzzer/issues/64) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+5. ❗️ Opened issue [#192](https://github.com/IntelLabs/kAFL/issues/192) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
