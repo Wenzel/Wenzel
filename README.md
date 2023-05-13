@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#196](https://github.com/IntelLabs/kAFL/pull/196) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🎉 Merged PR [#197](https://github.com/IntelLabs/kAFL/pull/197) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. ❗️ Opened issue [#198](https://github.com/IntelLabs/kAFL/issues/198) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 💪 Opened PR [#197](https://github.com/IntelLabs/kAFL/pull/197) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 💪 Opened PR [#196](https://github.com/IntelLabs/kAFL/pull/196) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. ❗️ Closed issue [#1](https://github.com/IntelLabs/kafl.actions/issues/1) in [IntelLabs/kafl.actions](https://github.com/IntelLabs/kafl.actions)
+2. 🗣 Commented on [#1](https://github.com/IntelLabs/kafl.actions/issues/1) in [IntelLabs/kafl.actions](https://github.com/IntelLabs/kafl.actions)
+3. 🎉 Merged PR [#127](https://github.com/Wenzel/checksec.py/pull/127) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+4. 💪 Opened PR [#127](https://github.com/Wenzel/checksec.py/pull/127) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+5. 💪 Opened PR [#126](https://github.com/Wenzel/checksec.py/pull/126) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
 <!--END_SECTION:activity-->
