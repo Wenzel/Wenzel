@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/IntelLabs/kAFL/issues/199) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🗣 Commented on [#121](https://github.com/Wenzel/checksec.py/issues/121) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-3. ❗️ Closed issue [#1](https://github.com/IntelLabs/kafl.actions/issues/1) in [IntelLabs/kafl.actions](https://github.com/IntelLabs/kafl.actions)
-4. 🗣 Commented on [#1](https://github.com/IntelLabs/kafl.actions/issues/1) in [IntelLabs/kafl.actions](https://github.com/IntelLabs/kafl.actions)
-5. 🎉 Merged PR [#127](https://github.com/Wenzel/checksec.py/pull/127) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+1. 🗣 Commented on [#1743](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1743) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
+2. 🗣 Commented on [#1743](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1743) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
+3. ❗️ Opened issue [#1743](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1743) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
+4. 🗣 Commented on [#13173](https://github.com/hashicorp/vagrant/issues/13173) in [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
+5. 🗣 Commented on [#13176](https://github.com/hashicorp/vagrant/issues/13176) in [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
 <!--END_SECTION:activity-->
