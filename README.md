@@ -77,7 +77,7 @@ I have been working around Virtual Machine Introspection technologies for the pa
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#159](https://github.com/hashicorp/packer-plugin-ansible/issues/159) in [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible)
 2. 🗣 Commented on [#159](https://github.com/hashicorp/packer-plugin-ansible/issues/159) in [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible)
-3. ❗️ Opened issue [#159](https://github.com/hashicorp/packer-plugin-ansible/issues/159) in [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible)
+3. ❗ Opened issue [#159](https://github.com/hashicorp/packer-plugin-ansible/issues/159) in [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible)
 4. 🗣 Commented on [#12438](https://github.com/hashicorp/packer/issues/12438) in [hashicorp/packer](https://github.com/hashicorp/packer)
-5. ❗️ Opened issue [#12438](https://github.com/hashicorp/packer/issues/12438) in [hashicorp/packer](https://github.com/hashicorp/packer)
+5. ❗ Opened issue [#12438](https://github.com/hashicorp/packer/issues/12438) in [hashicorp/packer](https://github.com/hashicorp/packer)
 <!--END_SECTION:activity-->
