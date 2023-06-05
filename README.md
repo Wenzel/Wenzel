@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13193](https://github.com/hashicorp/vagrant/issues/13193) in [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
-2. 🗣 Commented on [#159](https://github.com/hashicorp/packer-plugin-ansible/issues/159) in [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible)
-3. 🗣 Commented on [#159](https://github.com/hashicorp/packer-plugin-ansible/issues/159) in [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible)
-4. ❗ Opened issue [#159](https://github.com/hashicorp/packer-plugin-ansible/issues/159) in [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible)
-5. 🗣 Commented on [#12438](https://github.com/hashicorp/packer/issues/12438) in [hashicorp/packer](https://github.com/hashicorp/packer)
+1. 🗣 Commented on [#128](https://github.com/Wenzel/checksec.py/issues/128) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+2. 🗣 Commented on [#200](https://github.com/IntelLabs/kAFL/issues/200) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. ❗ Opened issue [#13193](https://github.com/hashicorp/vagrant/issues/13193) in [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
+4. 🗣 Commented on [#159](https://github.com/hashicorp/packer-plugin-ansible/issues/159) in [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible)
+5. 🗣 Commented on [#159](https://github.com/hashicorp/packer-plugin-ansible/issues/159) in [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible)
 <!--END_SECTION:activity-->
