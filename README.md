@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#822](https://github.com/docker/build-push-action/issues/822) in [docker/build-push-action](https://github.com/docker/build-push-action)
-2. 🗣 Commented on [#128](https://github.com/Wenzel/checksec.py/issues/128) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-3. 🗣 Commented on [#200](https://github.com/IntelLabs/kAFL/issues/200) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. ❗ Opened issue [#13193](https://github.com/hashicorp/vagrant/issues/13193) in [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
-5. 🗣 Commented on [#159](https://github.com/hashicorp/packer-plugin-ansible/issues/159) in [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible)
+1. 🗣 Commented on [#13193](https://github.com/hashicorp/vagrant/issues/13193) in [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
+2. 🎉 Merged PR [#203](https://github.com/IntelLabs/kAFL/pull/203) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🗣 Commented on [#203](https://github.com/IntelLabs/kAFL/issues/203) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+4. 🎉 Merged PR [#202](https://github.com/IntelLabs/kAFL/pull/202) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 💪 Opened PR [#201](https://github.com/IntelLabs/kAFL/pull/201) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
