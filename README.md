@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/IntelLabs/kAFL/issues/53) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🗣 Commented on [#8](https://github.com/IntelLabs/kafl.qemu/issues/8) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
-3. ❗ Opened issue [#8](https://github.com/IntelLabs/kafl.qemu/issues/8) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
-4. 💪 Opened PR [#65](https://github.com/IntelLabs/kafl.fuzzer/pull/65) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
-5. 🗣 Commented on [#4](https://github.com/IntelLabs/kafl.linux/issues/4) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
+1. ❗ Opened issue [#514](https://github.com/ansible-collections/ansible.windows/issues/514) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
+2. ❗ Opened issue [#513](https://github.com/ansible-collections/ansible.windows/issues/513) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
+3. 🗣 Commented on [#53](https://github.com/IntelLabs/kAFL/issues/53) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+4. 🗣 Commented on [#8](https://github.com/IntelLabs/kafl.qemu/issues/8) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
+5. ❗ Opened issue [#8](https://github.com/IntelLabs/kafl.qemu/issues/8) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
 <!--END_SECTION:activity-->
