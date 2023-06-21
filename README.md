@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/KVM-VMI/kvm-vmi/issues/154) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+1. 🗣 Commented on [#199](https://github.com/IntelLabs/kAFL/issues/199) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 2. 🗣 Commented on [#1743](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1743) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
-3. 🗣 Commented on [#53](https://github.com/IntelLabs/kAFL/issues/53) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🗣 Commented on [#154](https://github.com/KVM-VMI/kvm-vmi/issues/154) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
 4. 🗣 Commented on [#1743](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1743) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
-5. 🗣 Commented on [#514](https://github.com/ansible-collections/ansible.windows/issues/514) in [ansible-collections/ansible.windows](https://github.com/ansible-collections/ansible.windows)
+5. 🗣 Commented on [#53](https://github.com/IntelLabs/kAFL/issues/53) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
