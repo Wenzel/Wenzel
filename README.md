@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#199](https://github.com/IntelLabs/kAFL/issues/199) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🔒 Closed issue [#200](https://github.com/IntelLabs/kAFL/issues/200) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🗣 Commented on [#200](https://github.com/IntelLabs/kAFL/issues/200) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🗣 Commented on [#204](https://github.com/IntelLabs/kAFL/issues/204) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🗣 Commented on [#199](https://github.com/IntelLabs/kAFL/issues/199) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🔒 Closed issue [#123](https://github.com/intel/ccc-linux-guest-hardening/issues/123) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+2. 🎉 Merged PR [#124](https://github.com/intel/ccc-linux-guest-hardening/pull/124) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+3. 💪 Opened PR [#124](https://github.com/intel/ccc-linux-guest-hardening/pull/124) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+4. ❗ Opened issue [#123](https://github.com/intel/ccc-linux-guest-hardening/issues/123) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+5. 🔒 Closed issue [#199](https://github.com/IntelLabs/kAFL/issues/199) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
