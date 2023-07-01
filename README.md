@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/Wenzel/xenctrl/issues/44) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-2. 🎉 Merged PR [#45](https://github.com/Wenzel/xenctrl/pull/45) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-3. 💪 Opened PR [#45](https://github.com/Wenzel/xenctrl/pull/45) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+1. 🗣 Commented on [#154](https://github.com/KVM-VMI/kvm-vmi/issues/154) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+2. 🎉 Merged PR [#65](https://github.com/IntelLabs/kafl.fuzzer/pull/65) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+3. 🔒 Closed issue [#8](https://github.com/IntelLabs/kafl.qemu/issues/8) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
 4. 🗣 Commented on [#8](https://github.com/IntelLabs/kafl.qemu/issues/8) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
-5. 🗣 Commented on [#8](https://github.com/IntelLabs/kafl.qemu/issues/8) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
+5. 🎉 Merged PR [#9](https://github.com/IntelLabs/kafl.qemu/pull/9) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
 <!--END_SECTION:activity-->
