@@ -76,8 +76,8 @@ I have been working around Virtual Machine Introspection technologies for the pa
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#201](https://github.com/IntelLabs/kAFL/issues/201) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🎉 Merged PR [#205](https://github.com/IntelLabs/kAFL/pull/205) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🗣 Commented on [#207](https://github.com/IntelLabs/kAFL/issues/207) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 💪 Opened PR [#207](https://github.com/IntelLabs/kAFL/pull/207) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🗣 Commented on [#154](https://github.com/KVM-VMI/kvm-vmi/issues/154) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+2. 🗣 Commented on [#201](https://github.com/IntelLabs/kAFL/issues/201) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🎉 Merged PR [#205](https://github.com/IntelLabs/kAFL/pull/205) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+4. 🗣 Commented on [#207](https://github.com/IntelLabs/kAFL/issues/207) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 💪 Opened PR [#207](https://github.com/IntelLabs/kAFL/pull/207) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
