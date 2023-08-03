@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/IntelLabs/kafl.qemu/pull/10#issuecomment-1653506502) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
-2. 🎉 Merged PR [#213](https://github.com/IntelLabs/kAFL/pull/213) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 💪 Opened PR [#213](https://github.com/IntelLabs/kAFL/pull/213) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🎉 Merged PR [#152](https://github.com/KVM-VMI/kvm-vmi/pull/152) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-5. 🎉 Merged PR [#155](https://github.com/KVM-VMI/kvm-vmi/pull/155) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+1. 🗣 Commented on [#10](https://github.com/IntelLabs/kafl.qemu/pull/10#issuecomment-1663038704) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
+2. 🗣 Commented on [#53](https://github.com/nyx-fuzz/QEMU-Nyx/pull/53#issuecomment-1662991707) in [nyx-fuzz/QEMU-Nyx](https://github.com/nyx-fuzz/QEMU-Nyx)
+3. 🗣 Commented on [#53](https://github.com/nyx-fuzz/QEMU-Nyx/pull/53#issuecomment-1661881173) in [nyx-fuzz/QEMU-Nyx](https://github.com/nyx-fuzz/QEMU-Nyx)
+4. 🗣 Commented on [#53](https://github.com/nyx-fuzz/QEMU-Nyx/pull/53#issuecomment-1661880061) in [nyx-fuzz/QEMU-Nyx](https://github.com/nyx-fuzz/QEMU-Nyx)
+5. 🗣 Commented on [#10](https://github.com/IntelLabs/kafl.qemu/pull/10#issuecomment-1653506502) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
 <!--END_SECTION:activity-->
