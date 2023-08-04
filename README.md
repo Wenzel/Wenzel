@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/IntelLabs/kafl.qemu/pull/10#issuecomment-1663038704) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
-2. 🗣 Commented on [#53](https://github.com/nyx-fuzz/QEMU-Nyx/pull/53#issuecomment-1662991707) in [nyx-fuzz/QEMU-Nyx](https://github.com/nyx-fuzz/QEMU-Nyx)
-3. 🗣 Commented on [#53](https://github.com/nyx-fuzz/QEMU-Nyx/pull/53#issuecomment-1661881173) in [nyx-fuzz/QEMU-Nyx](https://github.com/nyx-fuzz/QEMU-Nyx)
-4. 🗣 Commented on [#53](https://github.com/nyx-fuzz/QEMU-Nyx/pull/53#issuecomment-1661880061) in [nyx-fuzz/QEMU-Nyx](https://github.com/nyx-fuzz/QEMU-Nyx)
-5. 🗣 Commented on [#10](https://github.com/IntelLabs/kafl.qemu/pull/10#issuecomment-1653506502) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
+1. 🗣 Commented on [#23](https://github.com/IntelLabs/kafl.targets/pull/23#issuecomment-1664273449) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+2. 💪 Opened PR [#23](https://github.com/IntelLabs/kafl.targets/pull/23) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+3. 💪 Opened PR [#216](https://github.com/IntelLabs/kAFL/pull/216) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+4. 🎉 Merged PR [#215](https://github.com/IntelLabs/kAFL/pull/215) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🗣 Commented on [#68](https://github.com/IntelLabs/kafl.fuzzer/pull/68#issuecomment-1664239425) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
 <!--END_SECTION:activity-->
