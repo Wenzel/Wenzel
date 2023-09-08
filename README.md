@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12325](https://github.com/hashicorp/packer/issues/12325#issuecomment-1709305706) in [hashicorp/packer](https://github.com/hashicorp/packer)
-2. 💪 Opened PR [#3](https://github.com/hardik05/Damn_Vulnerable_Kernel_Module/pull/3) in [hardik05/Damn_Vulnerable_Kernel_Module](https://github.com/hardik05/Damn_Vulnerable_Kernel_Module)
-3. 🎉 Merged PR [#71](https://github.com/IntelLabs/kafl.fuzzer/pull/71) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
-4. 🎉 Merged PR [#25](https://github.com/IntelLabs/kafl.targets/pull/25) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-5. 💪 Opened PR [#25](https://github.com/IntelLabs/kafl.targets/pull/25) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+1. ❗ Opened issue [#12623](https://github.com/hashicorp/packer/issues/12623) in [hashicorp/packer](https://github.com/hashicorp/packer)
+2. 🗣 Commented on [#12325](https://github.com/hashicorp/packer/issues/12325#issuecomment-1709305706) in [hashicorp/packer](https://github.com/hashicorp/packer)
+3. 💪 Opened PR [#3](https://github.com/hardik05/Damn_Vulnerable_Kernel_Module/pull/3) in [hardik05/Damn_Vulnerable_Kernel_Module](https://github.com/hardik05/Damn_Vulnerable_Kernel_Module)
+4. 🎉 Merged PR [#71](https://github.com/IntelLabs/kafl.fuzzer/pull/71) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+5. 🎉 Merged PR [#25](https://github.com/IntelLabs/kafl.targets/pull/25) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
 <!--END_SECTION:activity-->
