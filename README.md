@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Wenzel/xenstore/pull/10#issuecomment-1722595555) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-2. 🎉 Merged PR [#13](https://github.com/Wenzel/xenstore/pull/13) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-3. 💪 Opened PR [#13](https://github.com/Wenzel/xenstore/pull/13) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-4. 🎉 Merged PR [#7](https://github.com/Wenzel/xenstore-sys/pull/7) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
-5. 💪 Opened PR [#7](https://github.com/Wenzel/xenstore-sys/pull/7) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+1. 💪 Opened PR [#31](https://github.com/IntelLabs/kafl.targets/pull/31) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+2. 💪 Opened PR [#237](https://github.com/IntelLabs/kAFL/pull/237) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🗣 Commented on [#128](https://github.com/intel/ccc-linux-guest-hardening/pull/128#issuecomment-1723701442) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+4. 💪 Opened PR [#30](https://github.com/IntelLabs/kafl.targets/pull/30) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+5. 🗣 Commented on [#128](https://github.com/intel/ccc-linux-guest-hardening/pull/128#issuecomment-1723014863) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
 <!--END_SECTION:activity-->
