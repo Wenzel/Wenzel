@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/IntelLabs/kafl.targets/pull/29#issuecomment-1732145750) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-2. 🔒 Closed issue [#157](https://github.com/KVM-VMI/kvm-vmi/issues/157) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-3. 🎉 Merged PR [#159](https://github.com/KVM-VMI/kvm-vmi/pull/159) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-4. 🎉 Merged PR [#10](https://github.com/Wenzel/xenstore/pull/10) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-5. 🎉 Merged PR [#160](https://github.com/KVM-VMI/kvm-vmi/pull/160) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+1. 🗣 Commented on [#128](https://github.com/intel/ccc-linux-guest-hardening/pull/128#issuecomment-1734613197) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+2. ❗ Opened issue [#2066](https://github.com/blacksmithgu/obsidian-dataview/issues/2066) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+3. 🗣 Commented on [#29](https://github.com/IntelLabs/kafl.targets/pull/29#issuecomment-1732145750) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+4. 🔒 Closed issue [#157](https://github.com/KVM-VMI/kvm-vmi/issues/157) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+5. 🎉 Merged PR [#159](https://github.com/KVM-VMI/kvm-vmi/pull/159) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
 <!--END_SECTION:activity-->
