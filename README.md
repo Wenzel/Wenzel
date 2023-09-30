@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/libvmi/python/issues/85#issuecomment-1737136013) in [libvmi/python](https://github.com/libvmi/python)
-2. 🗣 Commented on [#128](https://github.com/intel/ccc-linux-guest-hardening/pull/128#issuecomment-1734613197) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
-3. ❗ Opened issue [#2066](https://github.com/blacksmithgu/obsidian-dataview/issues/2066) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
-4. 🗣 Commented on [#29](https://github.com/IntelLabs/kafl.targets/pull/29#issuecomment-1732145750) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-5. 🔒 Closed issue [#157](https://github.com/KVM-VMI/kvm-vmi/issues/157) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+1. 🎉 Merged PR [#8](https://github.com/Wenzel/xenstore-sys/pull/8) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+2. 💪 Opened PR [#8](https://github.com/Wenzel/xenstore-sys/pull/8) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+3. 🗣 Commented on [#85](https://github.com/libvmi/python/issues/85#issuecomment-1741079271) in [libvmi/python](https://github.com/libvmi/python)
+4. 🎉 Merged PR [#24](https://github.com/intel/ccc-linux-guest-hardening-docs/pull/24) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
+5. 💪 Opened PR [#24](https://github.com/intel/ccc-linux-guest-hardening-docs/pull/24) in [intel/ccc-linux-guest-hardening-docs](https://github.com/intel/ccc-linux-guest-hardening-docs)
 <!--END_SECTION:activity-->
