@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#241](https://github.com/IntelLabs/kAFL/issues/241) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🎉 Merged PR [#33](https://github.com/IntelLabs/kafl.targets/pull/33) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-3. 💪 Opened PR [#33](https://github.com/IntelLabs/kafl.targets/pull/33) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-4. 🗣 Commented on [#241](https://github.com/IntelLabs/kAFL/issues/241#issuecomment-1752890312) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🗣 Commented on [#241](https://github.com/IntelLabs/kAFL/issues/241#issuecomment-1752879917) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🔒 Closed issue [#242](https://github.com/IntelLabs/kAFL/issues/242) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. 🎉 Merged PR [#34](https://github.com/IntelLabs/kafl.targets/pull/34) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+3. 💪 Opened PR [#34](https://github.com/IntelLabs/kafl.targets/pull/34) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+4. ❗ Opened issue [#242](https://github.com/IntelLabs/kAFL/issues/242) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🔒 Closed issue [#241](https://github.com/IntelLabs/kAFL/issues/241) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
