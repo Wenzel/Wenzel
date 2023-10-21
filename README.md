@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#244](https://github.com/IntelLabs/kAFL/issues/244) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🗣 Commented on [#244](https://github.com/IntelLabs/kAFL/issues/244#issuecomment-1770444647) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🗣 Commented on [#212](https://github.com/IntelLabs/kAFL/issues/212#issuecomment-1765950179) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🎉 Merged PR [#2](https://github.com/IntelLabs/kafl.libxdc/pull/2) in [IntelLabs/kafl.libxdc](https://github.com/IntelLabs/kafl.libxdc)
-5. 🗣 Commented on [#243](https://github.com/IntelLabs/kAFL/issues/243#issuecomment-1757282053) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🗣 Commented on [#246](https://github.com/IntelLabs/kAFL/issues/246#issuecomment-1772518968) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. 🗣 Commented on [#161](https://github.com/KVM-VMI/kvm-vmi/issues/161#issuecomment-1772257860) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+3. 🎉 Merged PR [#163](https://github.com/KVM-VMI/kvm-vmi/pull/163) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+4. 🔒 Closed issue [#244](https://github.com/IntelLabs/kAFL/issues/244) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🗣 Commented on [#244](https://github.com/IntelLabs/kAFL/issues/244#issuecomment-1770444647) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
