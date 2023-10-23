@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/IntelLabs/kAFL/issues/246#issuecomment-1772518968) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🗣 Commented on [#161](https://github.com/KVM-VMI/kvm-vmi/issues/161#issuecomment-1772257860) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-3. 🎉 Merged PR [#163](https://github.com/KVM-VMI/kvm-vmi/pull/163) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-4. 🔒 Closed issue [#244](https://github.com/IntelLabs/kAFL/issues/244) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🗣 Commented on [#244](https://github.com/IntelLabs/kAFL/issues/244#issuecomment-1770444647) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🗣 Commented on [#10](https://github.com/IntelLabs/kafl.linux/issues/10#issuecomment-1774203992) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
+2. 🗣 Commented on [#163](https://github.com/liamcain/obsidian-periodic-notes/issues/163#issuecomment-1774201294) in [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
+3. 🗣 Commented on [#246](https://github.com/IntelLabs/kAFL/issues/246#issuecomment-1772518968) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+4. 🗣 Commented on [#161](https://github.com/KVM-VMI/kvm-vmi/issues/161#issuecomment-1772257860) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+5. 🎉 Merged PR [#163](https://github.com/KVM-VMI/kvm-vmi/pull/163) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
 <!--END_SECTION:activity-->
