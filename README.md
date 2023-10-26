@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/IntelLabs/kAFL/issues/239#issuecomment-1777489243) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🗣 Commented on [#246](https://github.com/IntelLabs/kAFL/issues/246#issuecomment-1777013706) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🗣 Commented on [#239](https://github.com/IntelLabs/kAFL/issues/239#issuecomment-1776789639) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🎉 Merged PR [#247](https://github.com/IntelLabs/kAFL/pull/247) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 💪 Opened PR [#247](https://github.com/IntelLabs/kAFL/pull/247) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🎉 Merged PR [#19](https://github.com/Wenzel/xenstore/pull/19) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+2. 💪 Opened PR [#19](https://github.com/Wenzel/xenstore/pull/19) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+3. 🎉 Merged PR [#30](https://github.com/IntelLabs/kafl.targets/pull/30) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+4. 🔒 Closed issue [#16](https://github.com/Wenzel/xenstore/issues/16) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+5. 🎉 Merged PR [#17](https://github.com/Wenzel/xenstore/pull/17) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
 <!--END_SECTION:activity-->
