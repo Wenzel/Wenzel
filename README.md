@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/liamcain/obsidian-periodic-notes/issues/163#issuecomment-1797024579) in [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
-2. 🔒 Closed issue [#246](https://github.com/IntelLabs/kAFL/issues/246) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🗣 Commented on [#246](https://github.com/IntelLabs/kAFL/issues/246#issuecomment-1792042150) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🗣 Commented on [#14](https://github.com/Wenzel/xenstore/pull/14#issuecomment-1792037265) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-5. 🗣 Commented on [#251](https://github.com/IntelLabs/kAFL/issues/251#issuecomment-1788121882) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🗣 Commented on [#163](https://github.com/liamcain/obsidian-periodic-notes/issues/163#issuecomment-1800313319) in [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
+2. 🎉 Merged PR [#14](https://github.com/Wenzel/xenstore/pull/14) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+3. 🗣 Commented on [#14](https://github.com/Wenzel/xenstore/pull/14#issuecomment-1799802161) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+4. 🗣 Commented on [#163](https://github.com/liamcain/obsidian-periodic-notes/issues/163#issuecomment-1797024579) in [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
+5. 🔒 Closed issue [#246](https://github.com/IntelLabs/kAFL/issues/246) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
