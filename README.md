@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/liamcain/obsidian-periodic-notes/issues/163#issuecomment-1800313319) in [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
-2. 🎉 Merged PR [#14](https://github.com/Wenzel/xenstore/pull/14) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-3. 🗣 Commented on [#14](https://github.com/Wenzel/xenstore/pull/14#issuecomment-1799802161) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-4. 🗣 Commented on [#163](https://github.com/liamcain/obsidian-periodic-notes/issues/163#issuecomment-1797024579) in [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
-5. 🔒 Closed issue [#246](https://github.com/IntelLabs/kAFL/issues/246) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🗣 Commented on [#259](https://github.com/IntelLabs/kAFL/issues/259#issuecomment-1802976587) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. 💪 Opened PR [#51](https://github.com/Wenzel/xenctrl/pull/51) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+3. 🎉 Merged PR [#12](https://github.com/Wenzel/xenctrl-sys/pull/12) in [Wenzel/xenctrl-sys](https://github.com/Wenzel/xenctrl-sys)
+4. 💪 Opened PR [#12](https://github.com/Wenzel/xenctrl-sys/pull/12) in [Wenzel/xenctrl-sys](https://github.com/Wenzel/xenctrl-sys)
+5. 🗣 Commented on [#163](https://github.com/liamcain/obsidian-periodic-notes/issues/163#issuecomment-1800313319) in [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes)
 <!--END_SECTION:activity-->
