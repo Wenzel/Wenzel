@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/KVM-VMI/kvm/pull/62#issuecomment-1803552338) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-2. 🎉 Merged PR [#64](https://github.com/KVM-VMI/kvm/pull/64) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-3. 🎉 Merged PR [#65](https://github.com/KVM-VMI/kvm/pull/65) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-4. 🗣 Commented on [#259](https://github.com/IntelLabs/kAFL/issues/259#issuecomment-1802976587) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 💪 Opened PR [#51](https://github.com/Wenzel/xenctrl/pull/51) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+1. 🗣 Commented on [#49](https://github.com/Wenzel/xenctrl/pull/49#issuecomment-1806832240) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+2. 🎉 Merged PR [#44](https://github.com/Wenzel/xenctrl/pull/44) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+3. 🎉 Merged PR [#48](https://github.com/Wenzel/xenctrl/pull/48) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+4. 🎉 Merged PR [#51](https://github.com/Wenzel/xenctrl/pull/51) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+5. 🗣 Commented on [#62](https://github.com/KVM-VMI/kvm/pull/62#issuecomment-1803552338) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
 <!--END_SECTION:activity-->
