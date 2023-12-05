@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/Wenzel/xenctrl/pull/52) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-2. 💪 Opened PR [#52](https://github.com/Wenzel/xenctrl/pull/52) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-3. 🗣 Commented on [#47](https://github.com/Wenzel/xenctrl/issues/47#issuecomment-1825824335) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-4. 🗣 Commented on [#46](https://github.com/Wenzel/xenctrl/issues/46#issuecomment-1825823173) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-5. 🎉 Merged PR [#50](https://github.com/Wenzel/xenctrl/pull/50) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+1. 💪 Opened PR [#3](https://github.com/Wenzel/ccc-linux-guest-hardening/pull/3) in [Wenzel/ccc-linux-guest-hardening](https://github.com/Wenzel/ccc-linux-guest-hardening)
+2. ❌ Closed PR [#2](https://github.com/Wenzel/ccc-linux-guest-hardening/pull/2) in [Wenzel/ccc-linux-guest-hardening](https://github.com/Wenzel/ccc-linux-guest-hardening)
+3. 🎉 Merged PR [#132](https://github.com/intel/ccc-linux-guest-hardening/pull/132) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+4. 🎉 Merged PR [#52](https://github.com/Wenzel/xenctrl/pull/52) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+5. 💪 Opened PR [#52](https://github.com/Wenzel/xenctrl/pull/52) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
 <!--END_SECTION:activity-->
