@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Wenzel/ccc-linux-guest-hardening/pull/3) in [Wenzel/ccc-linux-guest-hardening](https://github.com/Wenzel/ccc-linux-guest-hardening)
-2. ❌ Closed PR [#2](https://github.com/Wenzel/ccc-linux-guest-hardening/pull/2) in [Wenzel/ccc-linux-guest-hardening](https://github.com/Wenzel/ccc-linux-guest-hardening)
-3. 🎉 Merged PR [#132](https://github.com/intel/ccc-linux-guest-hardening/pull/132) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
-4. 🎉 Merged PR [#52](https://github.com/Wenzel/xenctrl/pull/52) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-5. 💪 Opened PR [#52](https://github.com/Wenzel/xenctrl/pull/52) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+1. 🗣 Commented on [#72](https://github.com/IntelLabs/kafl.fuzzer/pull/72#issuecomment-1841004138) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+2. 🎉 Merged PR [#72](https://github.com/IntelLabs/kafl.fuzzer/pull/72) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+3. 🎉 Merged PR [#88](https://github.com/libvmi/python/pull/88) in [libvmi/python](https://github.com/libvmi/python)
+4. 🗣 Commented on [#88](https://github.com/libvmi/python/pull/88#issuecomment-1840763403) in [libvmi/python](https://github.com/libvmi/python)
+5. 🎉 Merged PR [#87](https://github.com/libvmi/python/pull/87) in [libvmi/python](https://github.com/libvmi/python)
 <!--END_SECTION:activity-->
