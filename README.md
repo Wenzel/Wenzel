@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1089](https://github.com/libvmi/libvmi/pull/1089#issuecomment-1862550756) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
-2. ❗ Opened issue [#13161](https://github.com/rust-lang/cargo/issues/13161) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
-3. 💪 Opened PR [#10](https://github.com/Wenzel/xenstore-sys/pull/10) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
-4. 🎉 Merged PR [#66](https://github.com/KVM-VMI/kvm/pull/66) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-5. 🗣 Commented on [#57](https://github.com/Wenzel/xenctrl/issues/57#issuecomment-1846790629) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+1. 💪 Opened PR [#11](https://github.com/Wenzel/xenstore-sys/pull/11) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+2. 🗣 Commented on [#1089](https://github.com/libvmi/libvmi/pull/1089#issuecomment-1862550756) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
+3. ❗ Opened issue [#13161](https://github.com/rust-lang/cargo/issues/13161) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
+4. 💪 Opened PR [#10](https://github.com/Wenzel/xenstore-sys/pull/10) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+5. 🎉 Merged PR [#66](https://github.com/KVM-VMI/kvm/pull/66) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
 <!--END_SECTION:activity-->
