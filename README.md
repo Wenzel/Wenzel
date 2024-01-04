@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/Wenzel/xenstore/pull/21) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-2. 💪 Opened PR [#11](https://github.com/Wenzel/xenstore-sys/pull/11) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
-3. 🗣 Commented on [#1089](https://github.com/libvmi/libvmi/pull/1089#issuecomment-1862550756) in [libvmi/libvmi](https://github.com/libvmi/libvmi)
-4. ❗ Opened issue [#13161](https://github.com/rust-lang/cargo/issues/13161) in [rust-lang/cargo](https://github.com/rust-lang/cargo)
-5. 💪 Opened PR [#10](https://github.com/Wenzel/xenstore-sys/pull/10) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+1. 🔒 Closed issue [#70](https://github.com/IntelLabs/kafl.fuzzer/issues/70) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+2. 🎉 Merged PR [#73](https://github.com/IntelLabs/kafl.fuzzer/pull/73) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+3. 💪 Opened PR [#73](https://github.com/IntelLabs/kafl.fuzzer/pull/73) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+4. 💪 Opened PR [#21](https://github.com/Wenzel/xenstore/pull/21) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+5. 💪 Opened PR [#11](https://github.com/Wenzel/xenstore-sys/pull/11) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
 <!--END_SECTION:activity-->
