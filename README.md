@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/Wenzel/checksec.py/pull/131#issuecomment-1888084508) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-2. 🎉 Merged PR [#130](https://github.com/Wenzel/checksec.py/pull/130) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-3. 🗣 Commented on [#130](https://github.com/Wenzel/checksec.py/pull/130#issuecomment-1888077682) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-4. 🎉 Merged PR [#132](https://github.com/Wenzel/checksec.py/pull/132) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-5. 💪 Opened PR [#132](https://github.com/Wenzel/checksec.py/pull/132) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+1. 🗣 Commented on [#114237](https://github.com/python/cpython/issues/114237#issuecomment-1899193159) in [python/cpython](https://github.com/python/cpython)
+2. 🔒 Closed issue [#114237](https://github.com/python/cpython/issues/114237) in [python/cpython](https://github.com/python/cpython)
+3. 🗣 Commented on [#114246](https://github.com/python/cpython/issues/114246#issuecomment-1898490314) in [python/cpython](https://github.com/python/cpython)
+4. ❗ Opened issue [#114246](https://github.com/python/cpython/issues/114246) in [python/cpython](https://github.com/python/cpython)
+5. ❗ Opened issue [#114237](https://github.com/python/cpython/issues/114237) in [python/cpython](https://github.com/python/cpython)
 <!--END_SECTION:activity-->
