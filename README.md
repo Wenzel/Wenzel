@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114246](https://github.com/python/cpython/issues/114246#issuecomment-1906916164) in [python/cpython](https://github.com/python/cpython)
-2. 🎉 Merged PR [#131](https://github.com/Wenzel/checksec.py/pull/131) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-3. 🗣 Commented on [#114237](https://github.com/python/cpython/issues/114237#issuecomment-1899193159) in [python/cpython](https://github.com/python/cpython)
-4. 🔒 Closed issue [#114237](https://github.com/python/cpython/issues/114237) in [python/cpython](https://github.com/python/cpython)
-5. 🗣 Commented on [#114246](https://github.com/python/cpython/issues/114246#issuecomment-1898490314) in [python/cpython](https://github.com/python/cpython)
+1. ❌ Closed PR [#10](https://github.com/Wenzel/xenstore-sys/pull/10) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+2. 🎉 Merged PR [#11](https://github.com/Wenzel/xenstore-sys/pull/11) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+3. 🎉 Merged PR [#21](https://github.com/Wenzel/xenstore/pull/21) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+4. 🗣 Commented on [#114246](https://github.com/python/cpython/issues/114246#issuecomment-1906916164) in [python/cpython](https://github.com/python/cpython)
+5. 🎉 Merged PR [#131](https://github.com/Wenzel/checksec.py/pull/131) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
 <!--END_SECTION:activity-->
