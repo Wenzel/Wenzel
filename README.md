@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#270](https://github.com/IntelLabs/kAFL/pull/270) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🎉 Merged PR [#269](https://github.com/IntelLabs/kAFL/pull/269) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🎉 Merged PR [#268](https://github.com/IntelLabs/kAFL/pull/268) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🎉 Merged PR [#267](https://github.com/IntelLabs/kAFL/pull/267) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🗣 Commented on [#223](https://github.com/IntelLabs/kAFL/issues/223#issuecomment-1912237097) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🗣 Commented on [#2033](https://github.com/blacksmithgu/obsidian-dataview/issues/2033#issuecomment-1913790399) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+2. 🎉 Merged PR [#270](https://github.com/IntelLabs/kAFL/pull/270) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🎉 Merged PR [#269](https://github.com/IntelLabs/kAFL/pull/269) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+4. 🎉 Merged PR [#268](https://github.com/IntelLabs/kAFL/pull/268) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🎉 Merged PR [#267](https://github.com/IntelLabs/kAFL/pull/267) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
