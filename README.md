@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2033](https://github.com/blacksmithgu/obsidian-dataview/issues/2033#issuecomment-1913790399) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
-2. 🎉 Merged PR [#270](https://github.com/IntelLabs/kAFL/pull/270) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🎉 Merged PR [#269](https://github.com/IntelLabs/kAFL/pull/269) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🎉 Merged PR [#268](https://github.com/IntelLabs/kAFL/pull/268) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🎉 Merged PR [#267](https://github.com/IntelLabs/kAFL/pull/267) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🗣 Commented on [#844](https://github.com/dynaconf/dynaconf/issues/844#issuecomment-1918775591) in [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf)
+2. 💪 Opened PR [#13](https://github.com/Wenzel/xenstore-sys/pull/13) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+3. ❗ Opened issue [#12](https://github.com/Wenzel/xenstore-sys/issues/12) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+4. 🗣 Commented on [#2033](https://github.com/blacksmithgu/obsidian-dataview/issues/2033#issuecomment-1913790399) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+5. 🎉 Merged PR [#270](https://github.com/IntelLabs/kAFL/pull/270) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
