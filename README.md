@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#271](https://github.com/IntelLabs/kAFL/issues/271#issuecomment-1926662592) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 💪 Opened PR [#14](https://github.com/Wenzel/xenstore-sys/pull/14) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
-3. 🎉 Merged PR [#13](https://github.com/Wenzel/xenstore-sys/pull/13) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
-4. 🔒 Closed issue [#12](https://github.com/Wenzel/xenstore-sys/issues/12) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
-5. 🗣 Commented on [#844](https://github.com/dynaconf/dynaconf/issues/844#issuecomment-1918775591) in [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf)
+1. 🗣 Commented on [#102](https://github.com/rust-lang/pkg-config-rs/issues/102#issuecomment-1929054965) in [rust-lang/pkg-config-rs](https://github.com/rust-lang/pkg-config-rs)
+2. 🗣 Commented on [#271](https://github.com/IntelLabs/kAFL/issues/271#issuecomment-1926662592) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 💪 Opened PR [#14](https://github.com/Wenzel/xenstore-sys/pull/14) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+4. 🎉 Merged PR [#13](https://github.com/Wenzel/xenstore-sys/pull/13) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
+5. 🔒 Closed issue [#12](https://github.com/Wenzel/xenstore-sys/issues/12) in [Wenzel/xenstore-sys](https://github.com/Wenzel/xenstore-sys)
 <!--END_SECTION:activity-->
