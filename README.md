@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/intel/ccc-linux-guest-hardening/pull/137) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
-2. 🎉 Merged PR [#60](https://github.com/Wenzel/xenctrl/pull/60) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-3. 💪 Opened PR [#60](https://github.com/Wenzel/xenctrl/pull/60) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-4. 🎉 Merged PR [#59](https://github.com/Wenzel/xenctrl/pull/59) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
-5. 💪 Opened PR [#59](https://github.com/Wenzel/xenctrl/pull/59) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+1. 🎉 Merged PR [#272](https://github.com/IntelLabs/kAFL/pull/272) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. 🗣 Commented on [#844](https://github.com/dynaconf/dynaconf/issues/844#issuecomment-1941982709) in [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf)
+3. ❗ Opened issue [#1054](https://github.com/docker/build-push-action/issues/1054) in [docker/build-push-action](https://github.com/docker/build-push-action)
+4. 🎉 Merged PR [#137](https://github.com/intel/ccc-linux-guest-hardening/pull/137) in [intel/ccc-linux-guest-hardening](https://github.com/intel/ccc-linux-guest-hardening)
+5. 🎉 Merged PR [#60](https://github.com/Wenzel/xenctrl/pull/60) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
 <!--END_SECTION:activity-->
