@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/IntelLabs/kafl.targets/pull/40) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-2. 🗣 Commented on [#40](https://github.com/IntelLabs/kafl.targets/pull/40#issuecomment-2042556481) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-3. 🗣 Commented on [#42](https://github.com/IntelLabs/kafl.targets/issues/42#issuecomment-2042346532) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-4. 🔒 Closed issue [#39](https://github.com/IntelLabs/kafl.targets/issues/39) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-5. 🎉 Merged PR [#41](https://github.com/IntelLabs/kafl.targets/pull/41) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+1. 🗣 Commented on [#1679](https://github.com/actions/checkout/issues/1679#issuecomment-2047896419) in [actions/checkout](https://github.com/actions/checkout)
+2. 🔒 Closed issue [#1679](https://github.com/actions/checkout/issues/1679) in [actions/checkout](https://github.com/actions/checkout)
+3. ❗ Opened issue [#1679](https://github.com/actions/checkout/issues/1679) in [actions/checkout](https://github.com/actions/checkout)
+4. 🎉 Merged PR [#12](https://github.com/IntelLabs/kafl.linux/pull/12) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
+5. 💪 Opened PR [#12](https://github.com/IntelLabs/kafl.linux/pull/12) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
 <!--END_SECTION:activity-->
