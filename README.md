@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#170](https://github.com/KVM-VMI/kvm-vmi/pull/170) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-2. ❗ Opened issue [#2290](https://github.com/nektos/act/issues/2290) in [nektos/act](https://github.com/nektos/act)
-3. 💪 Opened PR [#1](https://github.com/Wenzel/bug_report/pull/1) in [Wenzel/bug_report](https://github.com/Wenzel/bug_report)
-4. 🗣 Commented on [#1679](https://github.com/actions/checkout/issues/1679#issuecomment-2047896419) in [actions/checkout](https://github.com/actions/checkout)
-5. 🔒 Closed issue [#1679](https://github.com/actions/checkout/issues/1679) in [actions/checkout](https://github.com/actions/checkout)
+1. 🎉 Merged PR [#278](https://github.com/IntelLabs/kAFL/pull/278) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. 💪 Opened PR [#279](https://github.com/IntelLabs/kAFL/pull/279) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 🗣 Commented on [#42](https://github.com/IntelLabs/kafl.targets/issues/42#issuecomment-2061116466) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+4. 🔒 Closed issue [#42](https://github.com/IntelLabs/kafl.targets/issues/42) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+5. 🎉 Merged PR [#170](https://github.com/KVM-VMI/kvm-vmi/pull/170) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
 <!--END_SECTION:activity-->
