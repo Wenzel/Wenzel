@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1578](https://github.com/nektos/act/issues/1578#issuecomment-2077269342) in [nektos/act](https://github.com/nektos/act)
-2. 🎉 Merged PR [#280](https://github.com/IntelLabs/kAFL/pull/280) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 💪 Opened PR [#13](https://github.com/IntelLabs/kafl.linux/pull/13) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
-4. 💪 Opened PR [#280](https://github.com/IntelLabs/kAFL/pull/280) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🎉 Merged PR [#278](https://github.com/IntelLabs/kAFL/pull/278) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. ❗ Opened issue [#5092](https://github.com/neo4j/graphql/issues/5092) in [neo4j/graphql](https://github.com/neo4j/graphql)
+2. ❗ Opened issue [#5089](https://github.com/neo4j/graphql/issues/5089) in [neo4j/graphql](https://github.com/neo4j/graphql)
+3. 🎉 Merged PR [#172](https://github.com/KVM-VMI/kvm-vmi/pull/172) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+4. 🗣 Commented on [#1578](https://github.com/nektos/act/issues/1578#issuecomment-2077269342) in [nektos/act](https://github.com/nektos/act)
+5. 🎉 Merged PR [#280](https://github.com/IntelLabs/kAFL/pull/280) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
