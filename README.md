@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#143](https://github.com/neo4j/docs-graphql/issues/143) in [neo4j/docs-graphql](https://github.com/neo4j/docs-graphql)
-2. ❗ Opened issue [#5092](https://github.com/neo4j/graphql/issues/5092) in [neo4j/graphql](https://github.com/neo4j/graphql)
-3. ❗ Opened issue [#5089](https://github.com/neo4j/graphql/issues/5089) in [neo4j/graphql](https://github.com/neo4j/graphql)
-4. 🎉 Merged PR [#172](https://github.com/KVM-VMI/kvm-vmi/pull/172) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-5. 🗣 Commented on [#1578](https://github.com/nektos/act/issues/1578#issuecomment-2077269342) in [nektos/act](https://github.com/nektos/act)
+1. 🎉 Merged PR [#87](https://github.com/Wenzel/awesome-virtualization/pull/87) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
+2. 🗣 Commented on [#87](https://github.com/Wenzel/awesome-virtualization/pull/87#issuecomment-2104799192) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
+3. 🎉 Merged PR [#88](https://github.com/Wenzel/awesome-virtualization/pull/88) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
+4. 🗣 Commented on [#88](https://github.com/Wenzel/awesome-virtualization/pull/88#issuecomment-2104797417) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
+5. 🎉 Merged PR [#89](https://github.com/Wenzel/awesome-virtualization/pull/89) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
 <!--END_SECTION:activity-->
