@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#175](https://github.com/KVM-VMI/kvm-vmi/pull/175) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-2. 🗣 Commented on [#174](https://github.com/KVM-VMI/kvm-vmi/issues/174#issuecomment-2163937581) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-3. 🎉 Merged PR [#134](https://github.com/Wenzel/checksec.py/pull/134) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-4. 🗣 Commented on [#134](https://github.com/Wenzel/checksec.py/pull/134#issuecomment-2141451849) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-5. 🗣 Commented on [#134](https://github.com/Wenzel/checksec.py/pull/134#issuecomment-2135614822) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+1. 🎉 Merged PR [#43](https://github.com/IntelLabs/kafl.targets/pull/43) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+2. 💪 Opened PR [#43](https://github.com/IntelLabs/kafl.targets/pull/43) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+3. 🎉 Merged PR [#7](https://github.com/Wenzel/kvm-vmi/pull/7) in [Wenzel/kvm-vmi](https://github.com/Wenzel/kvm-vmi)
+4. 🎉 Merged PR [#6](https://github.com/Wenzel/kvm-vmi/pull/6) in [Wenzel/kvm-vmi](https://github.com/Wenzel/kvm-vmi)
+5. 🎉 Merged PR [#175](https://github.com/KVM-VMI/kvm-vmi/pull/175) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
 <!--END_SECTION:activity-->
