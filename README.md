@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13483](https://github.com/neo4j/neo4j/issues/13483#issuecomment-2211780932) in [neo4j/neo4j](https://github.com/neo4j/neo4j)
-2. 🗣 Commented on [#13483](https://github.com/neo4j/neo4j/issues/13483#issuecomment-2207611451) in [neo4j/neo4j](https://github.com/neo4j/neo4j)
-3. 🗣 Commented on [#13483](https://github.com/neo4j/neo4j/issues/13483#issuecomment-2204545225) in [neo4j/neo4j](https://github.com/neo4j/neo4j)
-4. 🗣 Commented on [#13483](https://github.com/neo4j/neo4j/issues/13483#issuecomment-2204527241) in [neo4j/neo4j](https://github.com/neo4j/neo4j)
-5. 🗣 Commented on [#13483](https://github.com/neo4j/neo4j/issues/13483#issuecomment-2204510702) in [neo4j/neo4j](https://github.com/neo4j/neo4j)
+1. 🎉 Merged PR [#287](https://github.com/IntelLabs/kAFL/pull/287) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. 🎉 Merged PR [#286](https://github.com/IntelLabs/kAFL/pull/286) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+3. 💪 Opened PR [#286](https://github.com/IntelLabs/kAFL/pull/286) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+4. 🗣 Commented on [#275](https://github.com/IntelLabs/kAFL/issues/275#issuecomment-2213483545) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🚀 Published release [v0.9](https://github.com/IntelLabs/kAFL/releases/tag/v0.9) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
