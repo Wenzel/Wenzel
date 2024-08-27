@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#290](https://github.com/IntelLabs/kAFL/issues/290#issuecomment-2307191357) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. ❌ Closed PR [#13](https://github.com/IntelLabs/kafl.linux/pull/13) in [IntelLabs/kafl.linux](https://github.com/IntelLabs/kafl.linux)
-3. 🎉 Merged PR [#9](https://github.com/intel/vmsifter/pull/9) in [intel/vmsifter](https://github.com/intel/vmsifter)
-4. 💪 Opened PR [#9](https://github.com/intel/vmsifter/pull/9) in [intel/vmsifter](https://github.com/intel/vmsifter)
-5. 🎉 Merged PR [#8](https://github.com/intel/vmsifter/pull/8) in [intel/vmsifter](https://github.com/intel/vmsifter)
+1. 🎉 Merged PR [#293](https://github.com/IntelLabs/kAFL/pull/293) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. 🎉 Merged PR [#80](https://github.com/IntelLabs/kafl.fuzzer/pull/80) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+3. 💪 Opened PR [#80](https://github.com/IntelLabs/kafl.fuzzer/pull/80) in [IntelLabs/kafl.fuzzer](https://github.com/IntelLabs/kafl.fuzzer)
+4. 💪 Opened PR [#293](https://github.com/IntelLabs/kAFL/pull/293) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🎉 Merged PR [#292](https://github.com/IntelLabs/kAFL/pull/292) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
