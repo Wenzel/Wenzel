@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/intel/vmsifter/pull/11#issuecomment-2334057739) in [intel/vmsifter](https://github.com/intel/vmsifter)
-2. 🎉 Merged PR [#179](https://github.com/KVM-VMI/kvm-vmi/pull/179) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-3. 🎉 Merged PR [#10](https://github.com/intel/vmsifter/pull/10) in [intel/vmsifter](https://github.com/intel/vmsifter)
-4. 🗣 Commented on [#44](https://github.com/IntelLabs/kafl.targets/issues/44#issuecomment-2317686079) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-5. 💪 Opened PR [#45](https://github.com/IntelLabs/kafl.targets/pull/45) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+1. 🎉 Merged PR [#13](https://github.com/intel/vmsifter/pull/13) in [intel/vmsifter](https://github.com/intel/vmsifter)
+2. 💪 Opened PR [#13](https://github.com/intel/vmsifter/pull/13) in [intel/vmsifter](https://github.com/intel/vmsifter)
+3. 🎉 Merged PR [#12](https://github.com/intel/vmsifter/pull/12) in [intel/vmsifter](https://github.com/intel/vmsifter)
+4. 💪 Opened PR [#12](https://github.com/intel/vmsifter/pull/12) in [intel/vmsifter](https://github.com/intel/vmsifter)
+5. 🎉 Merged PR [#295](https://github.com/IntelLabs/kAFL/pull/295) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
