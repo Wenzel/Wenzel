@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/Wenzel/checksec.py/pull/137) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-2. 🗣 Commented on [#137](https://github.com/Wenzel/checksec.py/pull/137#issuecomment-2355478974) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-3. 🎉 Merged PR [#15](https://github.com/intel/vmsifter/pull/15) in [intel/vmsifter](https://github.com/intel/vmsifter)
-4. 💪 Opened PR [#15](https://github.com/intel/vmsifter/pull/15) in [intel/vmsifter](https://github.com/intel/vmsifter)
-5. 🎉 Merged PR [#14](https://github.com/intel/vmsifter/pull/14) in [intel/vmsifter](https://github.com/intel/vmsifter)
+1. ❗ Opened issue [#2464](https://github.com/nektos/act/issues/2464) in [nektos/act](https://github.com/nektos/act)
+2. 🎉 Merged PR [#137](https://github.com/Wenzel/checksec.py/pull/137) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+3. 🗣 Commented on [#137](https://github.com/Wenzel/checksec.py/pull/137#issuecomment-2355478974) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+4. 🎉 Merged PR [#15](https://github.com/intel/vmsifter/pull/15) in [intel/vmsifter](https://github.com/intel/vmsifter)
+5. 💪 Opened PR [#15](https://github.com/intel/vmsifter/pull/15) in [intel/vmsifter](https://github.com/intel/vmsifter)
 <!--END_SECTION:activity-->
