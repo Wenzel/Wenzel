@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/Wenzel/awesome-virtualization/pull/90) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
-2. 🗣 Commented on [#90](https://github.com/Wenzel/awesome-virtualization/pull/90#issuecomment-2384211159) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
-3. 🗣 Commented on [#18](https://github.com/hashicorp/packer-plugin-qemu/issues/18#issuecomment-2382515895) in [hashicorp/packer-plugin-qemu](https://github.com/hashicorp/packer-plugin-qemu)
-4. ❗ Opened issue [#13172](https://github.com/hashicorp/packer/issues/13172) in [hashicorp/packer](https://github.com/hashicorp/packer)
-5. 🗣 Commented on [#1725](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1725#issuecomment-2377686599) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
+1. 🎉 Merged PR [#186](https://github.com/KVM-VMI/kvm-vmi/pull/186) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+2. 💪 Opened PR [#186](https://github.com/KVM-VMI/kvm-vmi/pull/186) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+3. 🎉 Merged PR [#185](https://github.com/KVM-VMI/kvm-vmi/pull/185) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+4. 💪 Opened PR [#185](https://github.com/KVM-VMI/kvm-vmi/pull/185) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+5. 🎉 Merged PR [#90](https://github.com/Wenzel/awesome-virtualization/pull/90) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
 <!--END_SECTION:activity-->
