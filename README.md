@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#181](https://github.com/neo4j/docs-graphql/issues/181) in [neo4j/docs-graphql](https://github.com/neo4j/docs-graphql)
-2. ❗ Opened issue [#5628](https://github.com/neo4j/graphql/issues/5628) in [neo4j/graphql](https://github.com/neo4j/graphql)
-3. 🎉 Merged PR [#186](https://github.com/KVM-VMI/kvm-vmi/pull/186) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-4. 💪 Opened PR [#186](https://github.com/KVM-VMI/kvm-vmi/pull/186) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-5. 🎉 Merged PR [#185](https://github.com/KVM-VMI/kvm-vmi/pull/185) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+1. 🗣 Commented on [#187](https://github.com/KVM-VMI/kvm-vmi/issues/187#issuecomment-2436264199) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+2. 💪 Opened PR [#188](https://github.com/KVM-VMI/kvm-vmi/pull/188) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+3. ❗ Opened issue [#181](https://github.com/neo4j/docs-graphql/issues/181) in [neo4j/docs-graphql](https://github.com/neo4j/docs-graphql)
+4. ❗ Opened issue [#5628](https://github.com/neo4j/graphql/issues/5628) in [neo4j/graphql](https://github.com/neo4j/graphql)
+5. 🎉 Merged PR [#186](https://github.com/KVM-VMI/kvm-vmi/pull/186) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
 <!--END_SECTION:activity-->
