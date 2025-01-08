@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/intel/vmsifter/pull/19) in [intel/vmsifter](https://github.com/intel/vmsifter)
-2. 🚀 Published release [v0.8](https://github.com/Wenzel/xenstore/releases/tag/v0.8.0) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-3. 🎉 Merged PR [#24](https://github.com/Wenzel/xenstore/pull/24) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-4. 💪 Opened PR [#24](https://github.com/Wenzel/xenstore/pull/24) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
-5. 🎉 Merged PR [#23](https://github.com/Wenzel/xenstore/pull/23) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+1. 🗣 Commented on [#95](https://github.com/libvmi/python/pull/95#issuecomment-2575064815) in [libvmi/python](https://github.com/libvmi/python)
+2. 🎉 Merged PR [#19](https://github.com/intel/vmsifter/pull/19) in [intel/vmsifter](https://github.com/intel/vmsifter)
+3. 🚀 Published release [v0.8](https://github.com/Wenzel/xenstore/releases/tag/v0.8.0) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+4. 🎉 Merged PR [#24](https://github.com/Wenzel/xenstore/pull/24) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+5. 💪 Opened PR [#24](https://github.com/Wenzel/xenstore/pull/24) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
 <!--END_SECTION:activity-->
