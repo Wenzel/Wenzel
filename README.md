@@ -75,9 +75,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#302](https://github.com/IntelLabs/kAFL/issues/302#issuecomment-2582756452) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🗣 Commented on [#12286](https://github.com/bitwarden/clients/issues/12286#issuecomment-2581335604) in [bitwarden/clients](https://github.com/bitwarden/clients)
-3. 🗣 Commented on [#95](https://github.com/libvmi/python/pull/95#issuecomment-2575064815) in [libvmi/python](https://github.com/libvmi/python)
-4. 🎉 Merged PR [#19](https://github.com/intel/vmsifter/pull/19) in [intel/vmsifter](https://github.com/intel/vmsifter)
-5. 🚀 Published release [v0.8](https://github.com/Wenzel/xenstore/releases/tag/v0.8.0) in [Wenzel/xenstore](https://github.com/Wenzel/xenstore)
+1. 🗣 Commented on [#305](https://github.com/IntelLabs/kAFL/issues/305#issuecomment-2624684615) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+2. 🗣 Commented on [#46](https://github.com/IntelLabs/kafl.targets/issues/46#issuecomment-2624537275) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+3. 🗣 Commented on [#44](https://github.com/IntelLabs/kafl.targets/issues/44#issuecomment-2624532751) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+4. 🗣 Commented on [#304](https://github.com/IntelLabs/kAFL/issues/304#issuecomment-2624520423) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🗣 Commented on [#302](https://github.com/IntelLabs/kAFL/issues/302#issuecomment-2582756452) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
