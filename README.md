@@ -66,9 +66,13 @@ I have been working around Virtual Machine Introspection technologies for the pa
 ## Presentations
 
 - 2020: [FOSDEM](https://archive.fosdem.org/2020/) - [Rustifying the Virtual Machine Introspection ecosystem](https://archive.fosdem.org/2020/schedule/event/rust_vm_introspection/)
+  - [Slides](https://docs.google.com/presentation/d/1GVFzqKdMb6OP-jU2JrCyepXsV71yBJ9PJMjVAyM15Gk/edit?usp=sharing)
 - 2019: [Hack.lu](https://2019.hack.lu/) - [Leveraging KVM as a Debugging Platform](https://www.youtube.com/watch?v=U-wDpvItPUU)
+  - [Slides](https://docs.google.com/presentation/d/1IaMJeBbHmYZMGRvxG8Z7w0c7oBZ2ctH6ZH4CqH4ki5k/edit?usp=sharing)
 - 2019: [Insomni'Hack](https://www.insomnihack.ch/conference-2019/) - [Building a Flexible Hypervisor-Level Debugger](https://www.youtube.com/watch?v=-nXY_p8c_bQ)
+  - [Slides](https://docs.google.com/presentation/d/1SxLuPEOOSAT3tCXWiurA6PzOLokx82gyaK_ItkBk6Dc/edit?usp=sharing)
 - 2018: [Hack.lu](https://2018.hack.lu/) - [Hypervisor-Level Debugger Benefits & Challenges](https://www.youtube.com/watch?v=NnWYT-kCx_s)
+  - [Slides](https://docs.google.com/presentation/d/12RXFyKyNoSIh0De95ferPSimK_PvETpwZsGJJJ5r0ZM/edit?usp=sharing)
 
 ## Recent Activity
 
