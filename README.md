@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/Wenzel/kvmi/pull/50) in [Wenzel/kvmi](https://github.com/Wenzel/kvmi)
-2. 🎉 Merged PR [#10](https://github.com/Wenzel/kvmi-sys/pull/10) in [Wenzel/kvmi-sys](https://github.com/Wenzel/kvmi-sys)
-3. 🎉 Merged PR [#11](https://github.com/Wenzel/kvmi-sys/pull/11) in [Wenzel/kvmi-sys](https://github.com/Wenzel/kvmi-sys)
-4. 💪 Opened PR [#11](https://github.com/Wenzel/kvmi-sys/pull/11) in [Wenzel/kvmi-sys](https://github.com/Wenzel/kvmi-sys)
-5. 💪 Opened PR [#10](https://github.com/Wenzel/kvmi-sys/pull/10) in [Wenzel/kvmi-sys](https://github.com/Wenzel/kvmi-sys)
+1. ❌ Closed PR [#127](https://github.com/intel/tsffs/pull/127) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 💪 Opened PR [#127](https://github.com/intel/tsffs/pull/127) in [intel/tsffs](https://github.com/intel/tsffs)
+3. 🎉 Merged PR [#251](https://github.com/Wenzel/libmicrovmi/pull/251) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+4. 🎉 Merged PR [#62](https://github.com/Wenzel/xenctrl/pull/62) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+5. 💪 Opened PR [#62](https://github.com/Wenzel/xenctrl/pull/62) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
 <!--END_SECTION:activity-->
