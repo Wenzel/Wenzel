@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#253](https://github.com/Wenzel/libmicrovmi/pull/253) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-2. 💪 Opened PR [#253](https://github.com/Wenzel/libmicrovmi/pull/253) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-3. 🗣 Commented on [#250](https://github.com/Wenzel/libmicrovmi/pull/250#issuecomment-2690426791) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-4. 🗣 Commented on [#249](https://github.com/Wenzel/libmicrovmi/pull/249#issuecomment-2690407354) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-5. 🎉 Merged PR [#252](https://github.com/Wenzel/libmicrovmi/pull/252) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+1. 🗣 Commented on [#50](https://github.com/IntelLabs/kafl.targets/issues/50#issuecomment-2701734149) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+2. 🎉 Merged PR [#51](https://github.com/IntelLabs/kafl.targets/pull/51) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+3. 💪 Opened PR [#51](https://github.com/IntelLabs/kafl.targets/pull/51) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+4. 🎉 Merged PR [#316](https://github.com/IntelLabs/kAFL/pull/316) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🗣 Commented on [#314](https://github.com/IntelLabs/kAFL/issues/314#issuecomment-2700913525) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
