@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/IntelLabs/kafl.targets/issues/52#issuecomment-2718884092) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-2. 🎉 Merged PR [#113](https://github.com/intel/tsffs/pull/113) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🔒 Closed issue [#314](https://github.com/IntelLabs/kAFL/issues/314) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🎉 Merged PR [#319](https://github.com/IntelLabs/kAFL/pull/319) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-5. 🗣 Commented on [#317](https://github.com/IntelLabs/kAFL/issues/317#issuecomment-2714946081) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🎉 Merged PR [#254](https://github.com/Wenzel/libmicrovmi/pull/254) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+2. 🗣 Commented on [#254](https://github.com/Wenzel/libmicrovmi/pull/254#issuecomment-2721483142) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+3. 🗣 Commented on [#134](https://github.com/intel/tsffs/issues/134#issuecomment-2720895336) in [intel/tsffs](https://github.com/intel/tsffs)
+4. 🗣 Commented on [#254](https://github.com/Wenzel/libmicrovmi/pull/254#issuecomment-2719376639) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+5. 🎉 Merged PR [#255](https://github.com/Wenzel/libmicrovmi/pull/255) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
 <!--END_SECTION:activity-->
