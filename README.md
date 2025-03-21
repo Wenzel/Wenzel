@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#140](https://github.com/intel/tsffs/pull/140) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 🎉 Merged PR [#22](https://github.com/intel/vmsifter/pull/22) in [intel/vmsifter](https://github.com/intel/vmsifter)
-3. 🎉 Merged PR [#139](https://github.com/intel/tsffs/pull/139) in [intel/tsffs](https://github.com/intel/tsffs)
-4. 💪 Opened PR [#22](https://github.com/intel/vmsifter/pull/22) in [intel/vmsifter](https://github.com/intel/vmsifter)
-5. ❗ Opened issue [#13621](https://github.com/hashicorp/vagrant/issues/13621) in [hashicorp/vagrant](https://github.com/hashicorp/vagrant)
+1. 🎉 Merged PR [#143](https://github.com/intel/tsffs/pull/143) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 🎉 Merged PR [#142](https://github.com/intel/tsffs/pull/142) in [intel/tsffs](https://github.com/intel/tsffs)
+3. 🎉 Merged PR [#29](https://github.com/intel/vmsifter/pull/29) in [intel/vmsifter](https://github.com/intel/vmsifter)
+4. 💪 Opened PR [#29](https://github.com/intel/vmsifter/pull/29) in [intel/vmsifter](https://github.com/intel/vmsifter)
+5. 🎉 Merged PR [#26](https://github.com/intel/vmsifter/pull/26) in [intel/vmsifter](https://github.com/intel/vmsifter)
 <!--END_SECTION:activity-->
