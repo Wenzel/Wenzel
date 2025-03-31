@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/IntelLabs/kafl.targets/pull/54) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-2. 💪 Opened PR [#54](https://github.com/IntelLabs/kafl.targets/pull/54) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-3. 💪 Opened PR [#321](https://github.com/IntelLabs/kAFL/pull/321) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🎉 Merged PR [#143](https://github.com/intel/tsffs/pull/143) in [intel/tsffs](https://github.com/intel/tsffs)
-5. 🎉 Merged PR [#142](https://github.com/intel/tsffs/pull/142) in [intel/tsffs](https://github.com/intel/tsffs)
+1. 🗣 Commented on [#140](https://github.com/Wenzel/checksec.py/pull/140#issuecomment-2764804755) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+2. 🎉 Merged PR [#2](https://github.com/Wenzel/checksec.py-test-binaries/pull/2) in [Wenzel/checksec.py-test-binaries](https://github.com/Wenzel/checksec.py-test-binaries)
+3. 🎉 Merged PR [#144](https://github.com/intel/tsffs/pull/144) in [intel/tsffs](https://github.com/intel/tsffs)
+4. 🎉 Merged PR [#147](https://github.com/intel/tsffs/pull/147) in [intel/tsffs](https://github.com/intel/tsffs)
+5. 🎉 Merged PR [#55](https://github.com/IntelLabs/kafl.targets/pull/55) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
 <!--END_SECTION:activity-->
