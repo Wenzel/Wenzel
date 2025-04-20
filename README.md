@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1578](https://github.com/nektos/act/issues/1578#issuecomment-2796898420) in [nektos/act](https://github.com/nektos/act)
-2. 🗣 Commented on [#2722](https://github.com/nektos/act/issues/2722#issuecomment-2796894622) in [nektos/act](https://github.com/nektos/act)
-3. 🎉 Merged PR [#257](https://github.com/Wenzel/libmicrovmi/pull/257) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-4. 🎉 Merged PR [#256](https://github.com/Wenzel/libmicrovmi/pull/256) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-5. 🗣 Commented on [#169](https://github.com/KVM-VMI/kvm-vmi/issues/169#issuecomment-2778016309) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+1. 💪 Opened PR [#158](https://github.com/intel/tsffs/pull/158) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 🗣 Commented on [#1578](https://github.com/nektos/act/issues/1578#issuecomment-2796898420) in [nektos/act](https://github.com/nektos/act)
+3. 🗣 Commented on [#2722](https://github.com/nektos/act/issues/2722#issuecomment-2796894622) in [nektos/act](https://github.com/nektos/act)
+4. 🎉 Merged PR [#257](https://github.com/Wenzel/libmicrovmi/pull/257) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+5. 🎉 Merged PR [#256](https://github.com/Wenzel/libmicrovmi/pull/256) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
 <!--END_SECTION:activity-->
