@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#164](https://github.com/intel/tsffs/pull/164) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 🗣 Commented on [#4](https://github.com/novafacing/getters2/pull/4#issuecomment-2853792814) in [novafacing/getters2](https://github.com/novafacing/getters2)
-3. 🗣 Commented on [#158](https://github.com/intel/tsffs/pull/158#issuecomment-2850740956) in [intel/tsffs](https://github.com/intel/tsffs)
-4. 💪 Opened PR [#4](https://github.com/novafacing/getters2/pull/4) in [novafacing/getters2](https://github.com/novafacing/getters2)
-5. 🗣 Commented on [#158](https://github.com/intel/tsffs/pull/158#issuecomment-2838714887) in [intel/tsffs](https://github.com/intel/tsffs)
+1. 🎉 Merged PR [#158](https://github.com/intel/tsffs/pull/158) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 💪 Opened PR [#164](https://github.com/intel/tsffs/pull/164) in [intel/tsffs](https://github.com/intel/tsffs)
+3. 🗣 Commented on [#4](https://github.com/novafacing/getters2/pull/4#issuecomment-2853792814) in [novafacing/getters2](https://github.com/novafacing/getters2)
+4. 🗣 Commented on [#158](https://github.com/intel/tsffs/pull/158#issuecomment-2850740956) in [intel/tsffs](https://github.com/intel/tsffs)
+5. 💪 Opened PR [#4](https://github.com/novafacing/getters2/pull/4) in [novafacing/getters2](https://github.com/novafacing/getters2)
 <!--END_SECTION:activity-->
