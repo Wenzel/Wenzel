@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#162](https://github.com/intel/tsffs/pull/162) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 🎉 Merged PR [#166](https://github.com/intel/tsffs/pull/166) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🎉 Merged PR [#167](https://github.com/intel/tsffs/pull/167) in [intel/tsffs](https://github.com/intel/tsffs)
-4. 🎉 Merged PR [#158](https://github.com/intel/tsffs/pull/158) in [intel/tsffs](https://github.com/intel/tsffs)
-5. 💪 Opened PR [#164](https://github.com/intel/tsffs/pull/164) in [intel/tsffs](https://github.com/intel/tsffs)
+1. 💪 Opened PR [#170](https://github.com/intel/tsffs/pull/170) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 💪 Opened PR [#169](https://github.com/intel/tsffs/pull/169) in [intel/tsffs](https://github.com/intel/tsffs)
+3. 💪 Opened PR [#168](https://github.com/intel/tsffs/pull/168) in [intel/tsffs](https://github.com/intel/tsffs)
+4. 🎉 Merged PR [#141](https://github.com/Wenzel/checksec.py/pull/141) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+5. 🎉 Merged PR [#164](https://github.com/intel/tsffs/pull/164) in [intel/tsffs](https://github.com/intel/tsffs)
 <!--END_SECTION:activity-->
