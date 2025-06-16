@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/IntelLabs/kafl.qemu/issues/15#issuecomment-2949266301) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
-2. 🎉 Merged PR [#327](https://github.com/IntelLabs/kAFL/pull/327) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-3. 🗣 Commented on [#327](https://github.com/IntelLabs/kAFL/pull/327#issuecomment-2949262679) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🎉 Merged PR [#258](https://github.com/Wenzel/libmicrovmi/pull/258) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-5. 🗣 Commented on [#328](https://github.com/IntelLabs/kAFL/issues/328#issuecomment-2949243112) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+1. 🗣 Commented on [#143](https://github.com/Wenzel/checksec.py/pull/143#issuecomment-2974514631) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+2. 🗣 Commented on [#143](https://github.com/Wenzel/checksec.py/pull/143#issuecomment-2973656408) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+3. 🗣 Commented on [#15](https://github.com/IntelLabs/kafl.qemu/issues/15#issuecomment-2949266301) in [IntelLabs/kafl.qemu](https://github.com/IntelLabs/kafl.qemu)
+4. 🎉 Merged PR [#327](https://github.com/IntelLabs/kAFL/pull/327) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🗣 Commented on [#327](https://github.com/IntelLabs/kAFL/pull/327#issuecomment-2949262679) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
 <!--END_SECTION:activity-->
