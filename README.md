@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#179](https://github.com/intel/tsffs/pull/179) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 🎉 Merged PR [#181](https://github.com/intel/tsffs/pull/181) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🗣 Commented on [#67](https://github.com/KVM-VMI/kvm/pull/67#issuecomment-3066729420) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-4. 💪 Opened PR [#180](https://github.com/intel/tsffs/pull/180) in [intel/tsffs](https://github.com/intel/tsffs)
-5. 💪 Opened PR [#19](https://github.com/intel/simulator-bindings/pull/19) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+1. 🗣 Commented on [#145](https://github.com/Wenzel/checksec.py/issues/145#issuecomment-3081607927) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+2. 🚀 Published release [v0.7.5](https://github.com/Wenzel/checksec.py/releases/tag/v0.7.5) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+3. 🎉 Merged PR [#91](https://github.com/Wenzel/awesome-virtualization/pull/91) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
+4. 🗣 Commented on [#91](https://github.com/Wenzel/awesome-virtualization/pull/91#issuecomment-3081313979) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
+5. 🗣 Commented on [#143](https://github.com/Wenzel/checksec.py/pull/143#issuecomment-3081282059) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
 <!--END_SECTION:activity-->
