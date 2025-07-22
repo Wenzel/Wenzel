@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#178](https://github.com/intel/tsffs/pull/178) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 🎉 Merged PR [#180](https://github.com/intel/tsffs/pull/180) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🗣 Commented on [#145](https://github.com/Wenzel/checksec.py/issues/145#issuecomment-3081607927) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-4. 🚀 Published release [v0.7.5](https://github.com/Wenzel/checksec.py/releases/tag/v0.7.5) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-5. 🎉 Merged PR [#91](https://github.com/Wenzel/awesome-virtualization/pull/91) in [Wenzel/awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
+1. ❗ Opened issue [#1](https://github.com/Wenzel/kafl.targets/issues/1) in [Wenzel/kafl.targets](https://github.com/Wenzel/kafl.targets)
+2. 🎉 Merged PR [#59](https://github.com/IntelLabs/kafl.targets/pull/59) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
+3. 🎉 Merged PR [#178](https://github.com/intel/tsffs/pull/178) in [intel/tsffs](https://github.com/intel/tsffs)
+4. 🎉 Merged PR [#180](https://github.com/intel/tsffs/pull/180) in [intel/tsffs](https://github.com/intel/tsffs)
+5. 🗣 Commented on [#145](https://github.com/Wenzel/checksec.py/issues/145#issuecomment-3081607927) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
 <!--END_SECTION:activity-->
