@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Wenzel/kafl.targets/issues/1) in [Wenzel/kafl.targets](https://github.com/Wenzel/kafl.targets)
-2. 🎉 Merged PR [#59](https://github.com/IntelLabs/kafl.targets/pull/59) in [IntelLabs/kafl.targets](https://github.com/IntelLabs/kafl.targets)
-3. 🎉 Merged PR [#178](https://github.com/intel/tsffs/pull/178) in [intel/tsffs](https://github.com/intel/tsffs)
-4. 🎉 Merged PR [#180](https://github.com/intel/tsffs/pull/180) in [intel/tsffs](https://github.com/intel/tsffs)
-5. 🗣 Commented on [#145](https://github.com/Wenzel/checksec.py/issues/145#issuecomment-3081607927) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+1. 🎉 Merged PR [#182](https://github.com/intel/tsffs/pull/182) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 🎉 Merged PR [#11](https://github.com/intel/simulator-bindings/pull/11) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+3. 🎉 Merged PR [#10](https://github.com/intel/simulator-bindings/pull/10) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+4. 🎉 Merged PR [#13](https://github.com/intel/simulator-bindings/pull/13) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+5. 🗣 Commented on [#18](https://github.com/intel/simulator-bindings/pull/18#issuecomment-3109686304) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
 <!--END_SECTION:activity-->
