@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#234](undefined) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 💪 Opened PR [#198](undefined) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-3. 💪 Opened PR [#231](undefined) in [intel/tsffs](https://github.com/intel/tsffs)
-4. 💪 Opened PR [#229](undefined) in [intel/tsffs](https://github.com/intel/tsffs)
-5. 💪 Opened PR [#227](undefined) in [intel/tsffs](https://github.com/intel/tsffs)
+1. 🗣 Commented on [#1069](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1069#issuecomment-3414569270) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
+2. ❌ Closed PR [#170](undefined) in [intel/tsffs](https://github.com/intel/tsffs)
+3. 💪 Opened PR [#234](undefined) in [intel/tsffs](https://github.com/intel/tsffs)
+4. 💪 Opened PR [#198](undefined) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+5. 💪 Opened PR [#231](undefined) in [intel/tsffs](https://github.com/intel/tsffs)
 <!--END_SECTION:activity-->
