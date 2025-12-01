@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12545](https://github.com/anthropics/claude-code/issues/12545#issuecomment-3585126702) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2.  Labeled issue [#12545](https://github.com/anthropics/claude-code/issues/12545) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-3. ❗ Opened issue [#12545](https://github.com/anthropics/claude-code/issues/12545) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-4. 🗣 Commented on [#1069](https://github.com/vagrant-libvirt/vagrant-libvirt/issues/1069#issuecomment-3487071204) in [vagrant-libvirt/vagrant-libvirt](https://github.com/vagrant-libvirt/vagrant-libvirt)
-5. 💪 Opened PR [#237](undefined) in [intel/tsffs](https://github.com/intel/tsffs)
+1. 🗣 Commented on [#261](https://github.com/Wenzel/libmicrovmi/issues/261#issuecomment-3592601873) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+2. 💪 Opened PR [#263](undefined) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+3. 💪 Opened PR [#262](undefined) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+4. 🗣 Commented on [#12545](https://github.com/anthropics/claude-code/issues/12545#issuecomment-3585126702) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+5.  Labeled issue [#12545](https://github.com/anthropics/claude-code/issues/12545) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
