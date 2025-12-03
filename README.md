@@ -80,8 +80,8 @@ I have been working around Virtual Machine Introspection technologies for the pa
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#264](https://github.com/Wenzel/libmicrovmi/issues/264#issuecomment-3597355445) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-2. 🔒 Closed issue [#264](https://github.com/Wenzel/libmicrovmi/issues/264) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-3. ❌ Closed PR [#265](undefined) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-4. 💪 Opened PR [#266](undefined) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-5. 💪 Opened PR [#63](undefined) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+2. ❌ Merged PR [#266](undefined) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+3. 🔒 Closed issue [#264](https://github.com/Wenzel/libmicrovmi/issues/264) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+4. ❌ Merged PR [#56](undefined) in [Wenzel/xenctrl](https://github.com/Wenzel/xenctrl)
+5. ❌ Closed PR [#265](undefined) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
 <!--END_SECTION:activity-->
