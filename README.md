@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/Wenzel/checksec.py/pull/158#issuecomment-3665084083) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-2. 🗣 Commented on [#156](https://github.com/Wenzel/checksec.py/pull/156#issuecomment-3665079024) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
-3. 🗣 Commented on [#264](https://github.com/Wenzel/libmicrovmi/issues/264#issuecomment-3597355445) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-4. ❌ Merged PR [#266](undefined) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-5. 🔒 Closed issue [#264](https://github.com/Wenzel/libmicrovmi/issues/264) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+1. 🗣 Commented on [#12545](https://github.com/anthropics/claude-code/issues/12545#issuecomment-3694650993) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 🗣 Commented on [#158](https://github.com/Wenzel/checksec.py/pull/158#issuecomment-3665084083) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+3. 🗣 Commented on [#156](https://github.com/Wenzel/checksec.py/pull/156#issuecomment-3665079024) in [Wenzel/checksec.py](https://github.com/Wenzel/checksec.py)
+4. 🗣 Commented on [#264](https://github.com/Wenzel/libmicrovmi/issues/264#issuecomment-3597355445) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+5. ❌ Merged PR [#266](undefined) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
 <!--END_SECTION:activity-->
