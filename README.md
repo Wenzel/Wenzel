@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#272](https://github.com/intel/tsffs/pull/272) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 💪 Opened PR [#272](https://github.com/intel/tsffs/pull/272) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🗣 Commented on [#169](https://github.com/KVM-VMI/kvm-vmi/issues/169#issuecomment-3783128802) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
-4. 🗣 Commented on [#72](https://github.com/KVM-VMI/kvm/pull/72#issuecomment-3783055074) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
-5. 🎉 Merged PR [#72](https://github.com/intel/simulator-bindings/pull/72) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+1. 🗣 Commented on [#12545](https://github.com/anthropics/claude-code/issues/12545#issuecomment-3790414277) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 🎉 Merged PR [#272](https://github.com/intel/tsffs/pull/272) in [intel/tsffs](https://github.com/intel/tsffs)
+3. 💪 Opened PR [#272](https://github.com/intel/tsffs/pull/272) in [intel/tsffs](https://github.com/intel/tsffs)
+4. 🗣 Commented on [#169](https://github.com/KVM-VMI/kvm-vmi/issues/169#issuecomment-3783128802) in [KVM-VMI/kvm-vmi](https://github.com/KVM-VMI/kvm-vmi)
+5. 🗣 Commented on [#72](https://github.com/KVM-VMI/kvm/pull/72#issuecomment-3783055074) in [KVM-VMI/kvm](https://github.com/KVM-VMI/kvm)
 <!--END_SECTION:activity-->
