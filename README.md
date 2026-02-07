@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#340](https://github.com/IntelLabs/kAFL/pull/340) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-2. 🚀 Published release [v6.1.7](https://github.com/intel/tsffs/releases/tag/v6.1.7) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🎉 Merged PR [#280](https://github.com/intel/tsffs/pull/280) in [intel/tsffs](https://github.com/intel/tsffs)
-4. 🎉 Merged PR [#89](https://github.com/intel/simulator-bindings/pull/89) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
-5. 💪 Opened PR [#89](https://github.com/intel/simulator-bindings/pull/89) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+1. 🎉 Merged PR [#282](https://github.com/intel/tsffs/pull/282) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 💪 Opened PR [#282](https://github.com/intel/tsffs/pull/282) in [intel/tsffs](https://github.com/intel/tsffs)
+3. 💪 Opened PR [#340](https://github.com/IntelLabs/kAFL/pull/340) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+4. 🚀 Published release [v6.1.7](https://github.com/intel/tsffs/releases/tag/v6.1.7) in [intel/tsffs](https://github.com/intel/tsffs)
+5. 🎉 Merged PR [#280](https://github.com/intel/tsffs/pull/280) in [intel/tsffs](https://github.com/intel/tsffs)
 <!--END_SECTION:activity-->
