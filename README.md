@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#288](https://github.com/intel/tsffs/issues/288) in [intel/tsffs](https://github.com/intel/tsffs)
-2. ❗ Opened issue [#287](https://github.com/intel/tsffs/issues/287) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🎉 Merged PR [#95](https://github.com/intel/simulator-bindings/pull/95) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
-4. 💪 Opened PR [#95](https://github.com/intel/simulator-bindings/pull/95) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
-5. 🎉 Merged PR [#93](https://github.com/intel/simulator-bindings/pull/93) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+1. 🎉 Merged PR [#286](https://github.com/intel/tsffs/pull/286) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 🎉 Merged PR [#97](https://github.com/intel/simulator-bindings/pull/97) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+3. 💪 Opened PR [#97](https://github.com/intel/simulator-bindings/pull/97) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+4. 🎉 Merged PR [#96](https://github.com/intel/simulator-bindings/pull/96) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+5. 💪 Opened PR [#96](https://github.com/intel/simulator-bindings/pull/96) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
 <!--END_SECTION:activity-->
