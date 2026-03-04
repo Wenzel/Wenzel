@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#293](https://github.com/intel/tsffs/pull/293) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 💪 Opened PR [#293](https://github.com/intel/tsffs/pull/293) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🎉 Merged PR [#285](https://github.com/intel/tsffs/pull/285) in [intel/tsffs](https://github.com/intel/tsffs)
-4. 🎉 Merged PR [#100](https://github.com/intel/simulator-bindings/pull/100) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
-5. 💪 Opened PR [#100](https://github.com/intel/simulator-bindings/pull/100) in [intel/simulator-bindings](https://github.com/intel/simulator-bindings)
+1. 🎉 Merged PR [#300](https://github.com/intel/tsffs/pull/300) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 💪 Opened PR [#300](https://github.com/intel/tsffs/pull/300) in [intel/tsffs](https://github.com/intel/tsffs)
+3. 🎉 Merged PR [#298](https://github.com/intel/tsffs/pull/298) in [intel/tsffs](https://github.com/intel/tsffs)
+4. 🗣 Commented on [#296](https://github.com/intel/tsffs/pull/296#issuecomment-3991320044) in [intel/tsffs](https://github.com/intel/tsffs)
+5. ❌ Closed PR [#295](https://github.com/intel/tsffs/pull/295) in [intel/tsffs](https://github.com/intel/tsffs)
 <!--END_SECTION:activity-->
