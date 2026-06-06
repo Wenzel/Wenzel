@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#355](https://github.com/intel/tsffs/issues/355#issuecomment-4624196954) in [intel/tsffs](https://github.com/intel/tsffs)
-2. ❗ Opened issue [#355](https://github.com/intel/tsffs/issues/355) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 💪 Opened PR [#356](https://github.com/intel/tsffs/pull/356) in [intel/tsffs](https://github.com/intel/tsffs)
-4. 🗣 Commented on [#288](https://github.com/intel/tsffs/issues/288#issuecomment-4623676827) in [intel/tsffs](https://github.com/intel/tsffs)
-5. 💪 Opened PR [#354](https://github.com/intel/tsffs/pull/354) in [intel/tsffs](https://github.com/intel/tsffs)
+1. 🎉 Merged PR [#58](https://github.com/OSWatcher/neogit/pull/58) in [OSWatcher/neogit](https://github.com/OSWatcher/neogit)
+2. 💪 Opened PR [#58](https://github.com/OSWatcher/neogit/pull/58) in [OSWatcher/neogit](https://github.com/OSWatcher/neogit)
+3. 🗣 Commented on [#355](https://github.com/intel/tsffs/issues/355#issuecomment-4624196954) in [intel/tsffs](https://github.com/intel/tsffs)
+4. ❗ Opened issue [#355](https://github.com/intel/tsffs/issues/355) in [intel/tsffs](https://github.com/intel/tsffs)
+5. 💪 Opened PR [#356](https://github.com/intel/tsffs/pull/356) in [intel/tsffs](https://github.com/intel/tsffs)
 <!--END_SECTION:activity-->
