@@ -79,9 +79,9 @@ I have been working around Virtual Machine Introspection technologies for the pa
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#354](https://github.com/intel/tsffs/pull/354) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 🔒 Closed issue [#287](https://github.com/intel/tsffs/issues/287) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🎉 Merged PR [#58](https://github.com/OSWatcher/neogit/pull/58) in [OSWatcher/neogit](https://github.com/OSWatcher/neogit)
-4. 💪 Opened PR [#58](https://github.com/OSWatcher/neogit/pull/58) in [OSWatcher/neogit](https://github.com/OSWatcher/neogit)
-5. 🗣 Commented on [#355](https://github.com/intel/tsffs/issues/355#issuecomment-4624196954) in [intel/tsffs](https://github.com/intel/tsffs)
+1. 🗣 Commented on [#92](https://github.com/OSWatcher/oswatcher-procedures/pull/92#issuecomment-4671002256) in [OSWatcher/oswatcher-procedures](https://github.com/OSWatcher/oswatcher-procedures)
+2. 🗣 Commented on [#89](https://github.com/OSWatcher/oswatcher-procedures/pull/89#issuecomment-4671002058) in [OSWatcher/oswatcher-procedures](https://github.com/OSWatcher/oswatcher-procedures)
+3. 🗣 Commented on [#88](https://github.com/OSWatcher/oswatcher-procedures/pull/88#issuecomment-4670506082) in [OSWatcher/oswatcher-procedures](https://github.com/OSWatcher/oswatcher-procedures)
+4. 🗣 Commented on [#84](https://github.com/OSWatcher/oswatcher-procedures/pull/84#issuecomment-4670505883) in [OSWatcher/oswatcher-procedures](https://github.com/OSWatcher/oswatcher-procedures)
+5. 🗣 Commented on [#92](https://github.com/OSWatcher/oswatcher-procedures/pull/92#issuecomment-4670506442) in [OSWatcher/oswatcher-procedures](https://github.com/OSWatcher/oswatcher-procedures)
 <!--END_SECTION:activity-->
