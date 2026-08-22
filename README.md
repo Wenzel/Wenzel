@@ -152,9 +152,9 @@ Seven repositories, Apache 2.0, spanning capture, graph modelling, enrichment, q
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#379](https://github.com/intel/tsffs/pull/379) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 🗣 Commented on [#338](https://github.com/intel/tsffs/pull/338#issuecomment-5180008818) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🗣 Commented on [#347](https://github.com/IntelLabs/kAFL/issues/347#issuecomment-5159491539) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 💪 Opened PR [#105](https://github.com/OSWatcher/oswatcher-procedures/pull/105) in [OSWatcher/oswatcher-procedures](https://github.com/OSWatcher/oswatcher-procedures)
-5. 🎉 Merged PR [#104](https://github.com/OSWatcher/oswatcher-procedures/pull/104) in [OSWatcher/oswatcher-procedures](https://github.com/OSWatcher/oswatcher-procedures)
+1. ❌ Closed PR [#34](https://github.com/OSWatcher/oswatcher/pull/34) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
+2. 🗣 Commented on [#34](https://github.com/OSWatcher/oswatcher/pull/34#issuecomment-5369956117) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
+3. ❌ Closed PR [#108](https://github.com/OSWatcher/oswatcher/pull/108) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
+4. 🗣 Commented on [#108](https://github.com/OSWatcher/oswatcher/pull/108#issuecomment-5369955777) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
+5. ❌ Closed PR [#109](https://github.com/OSWatcher/oswatcher/pull/109) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
 <!--END_SECTION:activity-->
