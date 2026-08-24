@@ -152,9 +152,9 @@ Seven repositories, Apache 2.0, spanning capture, graph modelling, enrichment, q
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#34](https://github.com/OSWatcher/oswatcher/pull/34) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
-2. 🗣 Commented on [#34](https://github.com/OSWatcher/oswatcher/pull/34#issuecomment-5369956117) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
-3. ❌ Closed PR [#108](https://github.com/OSWatcher/oswatcher/pull/108) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
-4. 🗣 Commented on [#108](https://github.com/OSWatcher/oswatcher/pull/108#issuecomment-5369955777) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
-5. ❌ Closed PR [#109](https://github.com/OSWatcher/oswatcher/pull/109) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
+1. 🎉 Merged PR [#11](https://github.com/OSWatcher/oswatcher-plugins/pull/11) in [OSWatcher/oswatcher-plugins](https://github.com/OSWatcher/oswatcher-plugins)
+2. 💪 Opened PR [#11](https://github.com/OSWatcher/oswatcher-plugins/pull/11) in [OSWatcher/oswatcher-plugins](https://github.com/OSWatcher/oswatcher-plugins)
+3. ❌ Closed PR [#34](https://github.com/OSWatcher/oswatcher/pull/34) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
+4. 🗣 Commented on [#34](https://github.com/OSWatcher/oswatcher/pull/34#issuecomment-5369956117) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
+5. ❌ Closed PR [#108](https://github.com/OSWatcher/oswatcher/pull/108) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
 <!--END_SECTION:activity-->
