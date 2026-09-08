@@ -152,9 +152,9 @@ Seven repositories, Apache 2.0, spanning capture, graph modelling, enrichment, q
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/OSWatcher/oswatcher-deploy/pull/9) in [OSWatcher/oswatcher-deploy](https://github.com/OSWatcher/oswatcher-deploy)
-2. 🎉 Merged PR [#68](https://github.com/OSWatcher/graphql-api/pull/68) in [OSWatcher/graphql-api](https://github.com/OSWatcher/graphql-api)
-3. 🎉 Merged PR [#94](https://github.com/OSWatcher/osw-builder/pull/94) in [OSWatcher/osw-builder](https://github.com/OSWatcher/osw-builder)
-4. 💪 Opened PR [#94](https://github.com/OSWatcher/osw-builder/pull/94) in [OSWatcher/osw-builder](https://github.com/OSWatcher/osw-builder)
-5. 💪 Opened PR [#68](https://github.com/OSWatcher/graphql-api/pull/68) in [OSWatcher/graphql-api](https://github.com/OSWatcher/graphql-api)
+1. 🎉 Merged PR [#123](https://github.com/OSWatcher/oswatcher/pull/123) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
+2. 🗣 Commented on [#123](https://github.com/OSWatcher/oswatcher/pull/123#issuecomment-5577857156) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
+3. 💪 Opened PR [#123](https://github.com/OSWatcher/oswatcher/pull/123) in [OSWatcher/oswatcher](https://github.com/OSWatcher/oswatcher)
+4. 🎉 Merged PR [#59](https://github.com/OSWatcher/frontend/pull/59) in [OSWatcher/frontend](https://github.com/OSWatcher/frontend)
+5. 🎉 Merged PR [#95](https://github.com/OSWatcher/osw-builder/pull/95) in [OSWatcher/osw-builder](https://github.com/OSWatcher/osw-builder)
 <!--END_SECTION:activity-->
