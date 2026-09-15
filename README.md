@@ -152,9 +152,9 @@ Seven repositories, Apache 2.0, spanning capture, graph modelling, enrichment, q
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#387](https://github.com/intel/tsffs/pull/387) in [intel/tsffs](https://github.com/intel/tsffs)
-2. 💪 Opened PR [#387](https://github.com/intel/tsffs/pull/387) in [intel/tsffs](https://github.com/intel/tsffs)
-3. ❗ Opened issue [#349](https://github.com/IntelLabs/kAFL/issues/349) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
-4. 🎉 Merged PR [#73](https://github.com/OSWatcher/graphql-api/pull/73) in [OSWatcher/graphql-api](https://github.com/OSWatcher/graphql-api)
-5. 💪 Opened PR [#73](https://github.com/OSWatcher/graphql-api/pull/73) in [OSWatcher/graphql-api](https://github.com/OSWatcher/graphql-api)
+1. 💪 Opened PR [#388](https://github.com/intel/tsffs/pull/388) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 🎉 Merged PR [#387](https://github.com/intel/tsffs/pull/387) in [intel/tsffs](https://github.com/intel/tsffs)
+3. 💪 Opened PR [#387](https://github.com/intel/tsffs/pull/387) in [intel/tsffs](https://github.com/intel/tsffs)
+4. ❗ Opened issue [#349](https://github.com/IntelLabs/kAFL/issues/349) in [IntelLabs/kAFL](https://github.com/IntelLabs/kAFL)
+5. 🎉 Merged PR [#73](https://github.com/OSWatcher/graphql-api/pull/73) in [OSWatcher/graphql-api](https://github.com/OSWatcher/graphql-api)
 <!--END_SECTION:activity-->
