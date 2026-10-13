@@ -152,9 +152,9 @@ Seven repositories, Apache 2.0, spanning capture, graph modelling, enrichment, q
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#302](https://github.com/Wenzel/libmicrovmi/pull/302) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-2. 🔒 Closed issue [#282](https://github.com/Wenzel/libmicrovmi/issues/282) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-3. 🎉 Merged PR [#303](https://github.com/Wenzel/libmicrovmi/pull/303) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-4. 🔒 Closed issue [#279](https://github.com/Wenzel/libmicrovmi/issues/279) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-5. 💪 Opened PR [#304](https://github.com/Wenzel/libmicrovmi/pull/304) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+1. 🗣 Commented on [#286](https://github.com/Wenzel/libmicrovmi/issues/286#issuecomment-6123178653) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+2. 🗣 Commented on [#269](https://github.com/Wenzel/libmicrovmi/issues/269#issuecomment-6123563932) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+3. 🗣 Commented on [#289](https://github.com/Wenzel/libmicrovmi/issues/289#issuecomment-6123557942) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+4. ❗ Opened issue [#332](https://github.com/Wenzel/libmicrovmi/issues/332) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+5. ❗ Opened issue [#328](https://github.com/Wenzel/libmicrovmi/issues/328) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
 <!--END_SECTION:activity-->
