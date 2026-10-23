@@ -152,9 +152,9 @@ Seven repositories, Apache 2.0, spanning capture, graph modelling, enrichment, q
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#359](https://github.com/Wenzel/libmicrovmi/issues/359#issuecomment-6304601235) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-2. 🔒 Closed issue [#216](https://github.com/Wenzel/libmicrovmi/issues/216) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-3. 🗣 Commented on [#216](https://github.com/Wenzel/libmicrovmi/issues/216#issuecomment-6304596019) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-4. 🔒 Closed issue [#364](https://github.com/Wenzel/libmicrovmi/issues/364) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-5. 🗣 Commented on [#364](https://github.com/Wenzel/libmicrovmi/issues/364#issuecomment-6304595419) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+1. 🗣 Commented on [#2](https://github.com/Wenzel/drakvuf/issues/2#issuecomment-6354174239) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+2. ℹ️ Assigned issue [#6](https://github.com/Wenzel/drakvuf/issues/6) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+3. 🔒 Closed issue [#5](https://github.com/Wenzel/drakvuf/issues/5) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+4. ℹ️ Assigned issue [#5](https://github.com/Wenzel/drakvuf/issues/5) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+5. 🔒 Closed issue [#4](https://github.com/Wenzel/drakvuf/issues/4) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
 <!--END_SECTION:activity-->
