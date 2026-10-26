@@ -152,9 +152,9 @@ Seven repositories, Apache 2.0, spanning capture, graph modelling, enrichment, q
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19](https://github.com/Wenzel/drakvuf/issues/19) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
-2. 🗣 Commented on [#19](https://github.com/Wenzel/drakvuf/issues/19#issuecomment-6394096280) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
-3. ℹ️ Labeled issue [#32](https://github.com/Wenzel/drakvuf/issues/32) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
-4. ℹ️ Labeled issue [#32](https://github.com/Wenzel/drakvuf/issues/32) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
-5. ❗ Opened issue [#32](https://github.com/Wenzel/drakvuf/issues/32) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+1. 🗣 Commented on [#25](https://github.com/Wenzel/drakvuf/issues/25#issuecomment-6409177362) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+2. 🔒 Closed issue [#36](https://github.com/Wenzel/drakvuf/issues/36) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+3. 🗣 Commented on [#36](https://github.com/Wenzel/drakvuf/issues/36#issuecomment-6409110574) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+4. ℹ️ Labeled issue [#36](https://github.com/Wenzel/drakvuf/issues/36) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+5. ❗ Opened issue [#36](https://github.com/Wenzel/drakvuf/issues/36) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
 <!--END_SECTION:activity-->
