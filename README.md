@@ -152,9 +152,9 @@ Seven repositories, Apache 2.0, spanning capture, graph modelling, enrichment, q
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#359](https://github.com/Wenzel/libmicrovmi/issues/359#issuecomment-6412041721) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-2. 🗣 Commented on [#359](https://github.com/Wenzel/libmicrovmi/issues/359#issuecomment-6412005986) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-3. 🗣 Commented on [#359](https://github.com/Wenzel/libmicrovmi/issues/359#issuecomment-6411870935) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-4. 🗣 Commented on [#358](https://github.com/Wenzel/libmicrovmi/issues/358#issuecomment-6411443689) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-5. 🗣 Commented on [#329](https://github.com/Wenzel/libmicrovmi/issues/329#issuecomment-6409464809) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+1. 🎉 Merged PR [#395](https://github.com/intel/tsffs/pull/395) in [intel/tsffs](https://github.com/intel/tsffs)
+2. 🔒 Closed issue [#123](https://github.com/intel/tsffs/issues/123) in [intel/tsffs](https://github.com/intel/tsffs)
+3. 🗣 Commented on [#25](https://github.com/Wenzel/drakvuf/issues/25#issuecomment-6437798438) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+4. 🗣 Commented on [#35](https://github.com/Wenzel/drakvuf/issues/35#issuecomment-6437796995) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+5. 🔒 Closed issue [#35](https://github.com/Wenzel/drakvuf/issues/35) in [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
 <!--END_SECTION:activity-->
