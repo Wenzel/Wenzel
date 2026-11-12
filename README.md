@@ -152,9 +152,9 @@ Seven repositories, Apache 2.0, spanning capture, graph modelling, enrichment, q
 [![Wenzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wenzel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#365](https://github.com/Wenzel/libmicrovmi/pull/365) in [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
-2. 🗣 Commented on [#396](https://github.com/intel/tsffs/pull/396#issuecomment-6467456557) in [intel/tsffs](https://github.com/intel/tsffs)
-3. 🎉 Merged PR [#393](https://github.com/intel/tsffs/pull/393) in [intel/tsffs](https://github.com/intel/tsffs)
-4. 🔒 Closed issue [#392](https://github.com/intel/tsffs/issues/392) in [intel/tsffs](https://github.com/intel/tsffs)
-5. 🎉 Merged PR [#395](https://github.com/intel/tsffs/pull/395) in [intel/tsffs](https://github.com/intel/tsffs)
+1. ❗ Opened issue [#443](https://github.com/intel/tsffs/issues/443) in [intel/tsffs](https://github.com/intel/tsffs)
+2. ❗ Opened issue [#442](https://github.com/intel/tsffs/issues/442) in [intel/tsffs](https://github.com/intel/tsffs)
+3. ❗ Opened issue [#441](https://github.com/intel/tsffs/issues/441) in [intel/tsffs](https://github.com/intel/tsffs)
+4. ❗ Opened issue [#440](https://github.com/intel/tsffs/issues/440) in [intel/tsffs](https://github.com/intel/tsffs)
+5. ❗ Opened issue [#439](https://github.com/intel/tsffs/issues/439) in [intel/tsffs](https://github.com/intel/tsffs)
 <!--END_SECTION:activity-->
